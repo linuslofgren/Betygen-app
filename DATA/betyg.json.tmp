@@ -1,0 +1,40 @@
+{
+  "utbildningar": [
+    {
+      "ALE": [
+        {
+          "namn": "Ale gymnasium",
+          "program": "Introduktionsprogram IM - Individuellt alternativ",
+          "antPrel": "4)",
+          "medPrel": 123.5,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ale gymnasium",
+          "program": "Introduktionsprogram IM - Språkintroduktion",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        }
+      ],
+      "GBG": [
+        {
+          "namn": "Ale gymnasium",
+          "program": "Introduktionsprogram IM - Individuellt alternativ",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        }
+      ]
+    }
+  ]
+}

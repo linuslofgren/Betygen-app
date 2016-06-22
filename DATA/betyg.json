@@ -1,0 +1,18 @@
+{
+  "utbildningar": [
+    {
+      "Göteborg": [
+        {
+          "namn": "Ale gymnasium",
+          "program": "Introduktionsprogram IM - Språkintroduktion",
+          "antPrel": null,
+          "medPrel": 182.5,
+          "antSlut": null,
+          "medSlut": 182.5,
+          "antRes": null,
+          "medRes": null
+        }
+      ]
+    }
+  ]
+}
