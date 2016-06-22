@@ -1,0 +1,21 @@
+*{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.red{
+  background-color: #ff6666;
+}
+.box{
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border: 1px solid black;
+}
+td{
+  border-bottom: 1px solid black;
+}
+.lower{
+  background-color: #95d293;
+}
+.hid{
+  display: inline-block;
+}

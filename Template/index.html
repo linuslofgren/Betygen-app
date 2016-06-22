@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="data.js"></script>
+    <link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8">
+  </head>
+  <body>
+    <input id="i" type="text" name="name" value="" oninput="inp(false)" onkeydown="if(event.keyCode==13){
+      document.getElementById('btn').click()
+    }">
+    <button id="btn" type="button" name="button" onclick="inp(false)">sök skola</button>
+    <div id="hid" class="hid">
+      <input id="points" type="text" name="points" value="0" oninput="inp(true)" onkeydown="if(event.keyCode==13){
+        document.getElementById('butt').click()
+      }">
+      <button id="butt" type="button" onclick="inp(true)">Sök efter poäng</button>
+    </div>
+    <br>Sortera:
+    <input type="radio" name="alpha" id="alph" value="alpha" checked="checked" onchange="inp();hide()">Alfabetisk
+    <input type="radio" name="alpha" id="number" value="numb" onchange="inp();hide()">Poäng
+    <div class="" id="output">
+
+    </div>
+  </body>
+</html>
