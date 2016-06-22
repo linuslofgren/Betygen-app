@@ -14,9 +14,9 @@
     <button id="btn" type="button" name="button" onclick="inp(false)">sök skola</button>
     <div id="hid" class="hid">
       <input id="points" type="text" name="points" value="0" oninput="inp(true)" onkeydown="if(event.keyCode==13){
-        document.getElementById('butt').click()
+        inp(true);
       }">
-      <button id="butt" type="button" onclick="inp(true)">Sök efter poäng</button>
+      <button id="butt" type="button" onclick="inp(true, true)">Sök efter poäng</button>
     </div>
     <br>Sortera:
     <input type="radio" name="alpha" id="alph" value="alpha" checked="checked" onchange="inp();hide()">Alfabetisk

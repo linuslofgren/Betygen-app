@@ -42,7 +42,7 @@ function get(str){
   }
   return stuff
 }
-function inp(p){
+function inp(p, numbe){
   p = true;
 
   var input = document.getElementById("i");
@@ -82,19 +82,37 @@ function inp(p){
         }
       }
       if(goodStuff[i].poäng>340){
-        ht += "<tr class='red'><td>" + goodStuff[i].namn + "</td><td>" + goodStuff[i].program + "</td><td>" + goodStuff[i].poäng + "</td></tr>";
+        ht += "<tr class='red'><td>" + goodStuff[i].namn.replace(".", ",") + "</td><td>" + goodStuff[i].program.replace(".", ",") + "</td><td>" + goodStuff[i].poäng + "</td></tr>";
       }
       else{
-        ht += "<tr " + str + " ><td>" + goodStuff[i].namn + "</td><td>" + goodStuff[i].program + "</td><td>" + goodStuff[i].poäng + "</td></tr>";
+        ht += "<tr " + str + " ><td>" + goodStuff[i].namn.replace(".", ",") + "</td><td>" + goodStuff[i].program.replace(".", ",") + "</td><td>" + goodStuff[i].poäng + "</td></tr>";
       }
     }
     str = "class='lower'";
   }
   for (var i = 0; i < stuff.length; i++) {
     if(stuff[i].use){
-      ht += "<tr " + str + "><td>" + stuff[i].namn + "</td><td>" + stuff[i].program + "</td><td>" + stuff[i].poäng + "</td></tr>";
+      ht += "<tr " + str + "><td>" + stuff[i].namn.replace(".", ",") + "</td><td>" + stuff[i].program.replace(".", ",") + "</td><td>" + stuff[i].poäng + "</td></tr>";
     }
   }
   ht += "</table>"
   document.getElementById("output").innerHTML = ht;
+  if(numbe == true){
+    var nodes = document.getElementsByClassName("lower");
+    var x = 0;
+    if(nodes.length>0){
+      var points = document.getElementById("points").value
+      points = points.replace(",",".")
+      if(points[points.length-1] == "."){
+        points+="0";
+      }
+      if(!isNaN(points)){
+        if(points<=340){
+          x = nodes[0].getBoundingClientRect().top;
+          window.scrollTo(0,x-50);
+        }
+      }
+
+    }
+  }
 }
