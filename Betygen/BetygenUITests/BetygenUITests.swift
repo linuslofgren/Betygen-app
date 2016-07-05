@@ -1,14 +1,14 @@
 //
-//  BetygUITests.swift
-//  BetygUITests
+//  BetygenUITests.swift
+//  BetygenUITests
 //
-//  Created by Linus Löfgren on 2016-06-17.
+//  Created by Linus Löfgren on 2016-07-05.
 //  Copyright © 2016 Linus Löfgren. All rights reserved.
 //
 
 import XCTest
 
-class BetygUITests: XCTestCase {
+class BetygenUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

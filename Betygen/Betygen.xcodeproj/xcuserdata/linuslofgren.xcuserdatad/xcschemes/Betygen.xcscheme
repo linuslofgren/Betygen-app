@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A4422E61D13F754007994F5"
-               BuildableName = "Betyg.app"
-               BlueprintName = "Betyg"
-               ReferencedContainer = "container:Betyg.xcodeproj">
+               BlueprintIdentifier = "1A4FAFD01D2BB24D00FC3A6F"
+               BuildableName = "Betygen.app"
+               BlueprintName = "Betygen"
+               ReferencedContainer = "container:Betygen.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A4422FA1D13F754007994F5"
-               BuildableName = "BetygTests.xctest"
-               BlueprintName = "BetygTests"
-               ReferencedContainer = "container:Betyg.xcodeproj">
+               BlueprintIdentifier = "1A4FAFE41D2BB24E00FC3A6F"
+               BuildableName = "BetygenTests.xctest"
+               BlueprintName = "BetygenTests"
+               ReferencedContainer = "container:Betygen.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1A4423051D13F754007994F5"
-               BuildableName = "BetygUITests.xctest"
-               BlueprintName = "BetygUITests"
-               ReferencedContainer = "container:Betyg.xcodeproj">
+               BlueprintIdentifier = "1A4FAFEF1D2BB24E00FC3A6F"
+               BuildableName = "BetygenUITests.xctest"
+               BlueprintName = "BetygenUITests"
+               ReferencedContainer = "container:Betygen.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A4422E61D13F754007994F5"
-            BuildableName = "Betyg.app"
-            BlueprintName = "Betyg"
-            ReferencedContainer = "container:Betyg.xcodeproj">
+            BlueprintIdentifier = "1A4FAFD01D2BB24D00FC3A6F"
+            BuildableName = "Betygen.app"
+            BlueprintName = "Betygen"
+            ReferencedContainer = "container:Betygen.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A4422E61D13F754007994F5"
-            BuildableName = "Betyg.app"
-            BlueprintName = "Betyg"
-            ReferencedContainer = "container:Betyg.xcodeproj">
+            BlueprintIdentifier = "1A4FAFD01D2BB24D00FC3A6F"
+            BuildableName = "Betygen.app"
+            BlueprintName = "Betygen"
+            ReferencedContainer = "container:Betygen.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1A4422E61D13F754007994F5"
-            BuildableName = "Betyg.app"
-            BlueprintName = "Betyg"
-            ReferencedContainer = "container:Betyg.xcodeproj">
+            BlueprintIdentifier = "1A4FAFD01D2BB24D00FC3A6F"
+            BuildableName = "Betygen.app"
+            BlueprintName = "Betygen"
+            ReferencedContainer = "container:Betygen.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

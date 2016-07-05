@@ -1,15 +1,15 @@
 //
-//  BetygTests.swift
-//  BetygTests
+//  BetygenTests.swift
+//  BetygenTests
 //
-//  Created by Linus Löfgren on 2016-06-17.
+//  Created by Linus Löfgren on 2016-07-05.
 //  Copyright © 2016 Linus Löfgren. All rights reserved.
 //
 
 import XCTest
-@testable import Betyg
+@testable import Betygen
 
-class BetygTests: XCTestCase {
+class BetygenTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
@@ -28,7 +28,7 @@ class BetygTests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock {
+        self.measure {
             // Put the code you want to measure the time of here.
         }
     }

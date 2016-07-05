@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Betyg.xcscheme</key>
+		<key>Betygen.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1A4422E61D13F754007994F5</key>
+		<key>1A4FAFD01D2BB24D00FC3A6F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1A4422FA1D13F754007994F5</key>
+		<key>1A4FAFE41D2BB24E00FC3A6F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1A4423051D13F754007994F5</key>
+		<key>1A4FAFEF1D2BB24E00FC3A6F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

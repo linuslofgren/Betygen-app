@@ -3,7 +3,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 1::
-   clipboard = 
+   clipboard =
    Send ^c
    ClipWait
    FileAppend, %clipboard%++, %A_ScriptDir%\text.txt
@@ -12,7 +12,7 @@ Return
    FileAppend, NULL++, %A_ScriptDir%\text.txt
 Return
 1 & 2::
-   clipboard = 
+   clipboard =
    Send ^c
    ClipWait
    FileAppend, %clipboard%\, %A_ScriptDir%\text.txt
