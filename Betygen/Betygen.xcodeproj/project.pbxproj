@@ -419,6 +419,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Betygen/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = linuslofgren.Betygen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -431,6 +432,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Betygen/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = linuslofgren.Betygen;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -507,6 +509,7 @@
 				1A4FAFFB1D2BB24E00FC3A6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A4FAFFC1D2BB24E00FC3A6F /* Build configuration list for PBXNativeTarget "BetygenTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +518,7 @@
 				1A4FAFFE1D2BB24E00FC3A6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A4FAFFF1D2BB24E00FC3A6F /* Build configuration list for PBXNativeTarget "BetygenUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +527,7 @@
 				1A4FB0011D2BB24E00FC3A6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

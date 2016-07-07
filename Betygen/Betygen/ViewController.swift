@@ -39,7 +39,51 @@ enum ämnen: String{
     case Teknik
 }
 
-class prog {
+class programContainer {
+    var view = UIView()
+    var program = Prog()
+    func updateView(){
+        for v in self.view.subviews {
+            v.removeFromSuperview()
+        }
+        if self.view.superview != nil{
+            self.view.frame.size.width = (self.view.superview?.frame.width)!
+            self.view.frame.size.height = (self.view.superview?.frame.height)!/9
+        }
+        else{
+            self.view.frame.size = CGSize(width: 100.0, height: 100.0)
+        }
+        let programNamn = program.program
+        let skolNamn = program.namn
+        
+        
+        let namnLabel = UILabel()
+        namnLabel.text = skolNamn + " : " + programNamn
+        namnLabel.sizeToFit()
+        
+        
+        let poängLabel = UILabel()
+        if let poäng = program.antSlut{
+            poängLabel.text = String(poäng)
+        }
+        else{
+            poängLabel.text = "0.0"
+        }
+        poängLabel.sizeToFit()
+        
+        if(namnLabel.frame.width > self.view.frame.width-poängLabel.frame.width-20.0){
+           namnLabel.frame.size.width = self.view.frame.width-poängLabel.frame.width-20.0
+        }
+        
+        namnLabel.frame.origin = CGPoint(x: 10.0, y: self.view.frame.height/2-namnLabel.frame.height/2)
+        poängLabel.frame.origin = CGPoint(x: self.view.frame.width-poängLabel.frame.width-10.0, y: self.view.frame.height/2-poängLabel.frame.height/2)
+        
+        self.view.addSubview(namnLabel)
+        self.view.addSubview(poängLabel)
+    }
+}
+
+class Prog {
     var namn: String
     var program: String
     var antPrel: Float?
@@ -126,8 +170,8 @@ class prog {
 
 class kommun{
     var namn = ""
-    var program: [prog] = []
-    func addProg(_ progr: prog){
+    var program: [Prog] = []
+    func addProg(_ progr: Prog){
         program.append(progr)
     }
     init(namn: String){
@@ -137,13 +181,15 @@ class kommun{
 
 class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegate {
     
-    var current: prog?
+    var current: Prog?
     
     let okColor = UIColor(hue: 152/360, saturation: 54/100, brightness: 76/100, alpha: 1.0)
     
     var kommuner: [kommun] = []
     
     var segments: [UISegmentedControl] = []
+    
+    var cleared = 0
     
     let poängLabel = UILabel()
     
@@ -214,7 +260,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
          }
          
          */
-        
+        //INTERNET
         if let url = URL(string: "https://raw.githubusercontent.com/linuslofgren/Betygen/master/DATA/output.json"){
             do{
                 let text = try NSString(contentsOf: url, usedEncoding: nil)
@@ -285,7 +331,8 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         }
         let gr: CGFloat = 0.05
         totRect.size.height += selectView.frame.height*gr
-        scroll.contentSize = totRect.size
+        scroll.contentSize.height = totRect.size.height
+        scroll.contentSize.width = view.frame.width
         
         func white(_ alpha: CGFloat)->AnyObject{
             return UIColor(colorLiteralRed: 255/255, green: 255/255, blue: 255/255, alpha: Float(alpha)).cgColor as AnyObject
@@ -390,7 +437,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         inp.frame.size = CGSize(width: view.frame.width-ma, height: 30)
         
         inp.frame.origin.x = view.frame.width/2-inp.frame.width/2
-        inp.frame.origin.y = downSpace-inp.frame.height
+        inp.frame.origin.y = downSpace-inp.frame.height-5.0
         inp.borderStyle = UITextBorderStyle.roundedRect
         inp.returnKeyType = UIReturnKeyType.done
         inp.clearButtonMode = UITextFieldViewMode.whileEditing
@@ -446,16 +493,30 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
                         if let komu = kommunobj[namn]{
                             let komm = kommun(namn: namn)
                             for program in komu {
-                                let pr = prog()
+                                let pr = Prog()
                                 for prop in program.keys {
                                     if let val = program[prop] as? String{
-                                        pr[prop] = val
+                                        switch val {
+                                        case "1)":
+                                            pr[prop] = -1.0
+                                        case "2)":
+                                            pr[prop] = -2.0
+                                        case "3)":
+                                            pr[prop] = -3.0
+                                        case "4)":
+                                            pr[prop] = -4.0
+                                        case "5)":
+                                            pr[prop] = -4.0
+                                        default:
+                                            pr[prop] = val
+                                        }
+                                        
                                     }
                                     else if let val = program[prop] as? Float{
                                         pr[prop] = val
                                     }
                                     else{
-                                        pr[prop] = -1.0 as Float
+                                        pr[prop] = -10.0 as Float
                                     }
                                 }
                                 komm.program.append(pr)
@@ -559,12 +620,36 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         l.frame.origin.y = h/2-l.frame.size.height/2
         v.addSubview(l)
         let l1 = UILabel()
-        l1.text = String(p)
+        if p >= 0.0{
+            l1.text = String(p)
+            
+        }
+        else if p == -1.0 {
+            l1.text = "0"
+            
+        }
+        else if p == -2.0{
+            l1.text = "0"
+        
+        }else if p == -3.0{
+            l1.text = "0"
+        
+        }else if p == -4.0{
+            l1.text = "0"
+        
+        }else if p == -5.0{
+            l1.text = "0"
+            
+        }
+        else{
+            l1.text = "0"
+        }
+        
         l1.sizeToFit()
         l1.frame.origin.x = v.frame.width-l1.frame.width-10.0
         l1.frame.origin.y = h/2-l1.frame.size.height/2
         v.addSubview(l1)
-        if(p==0){
+        if(p<=0){
             v.backgroundColor = okColor
         }
         let btn = UIButton()
@@ -597,11 +682,13 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         poängLabel.sizeToFit()
         poängLabel.frame.origin = CGPoint(x: statView.frame.width/2-poängLabel.frame.width/2, y: 20.0)
         //print(str)
+        cleared = 0
         for v in schoolScrollViews {
             let t = v.subviews[1] as! UILabel
             let f = (t.text! as NSString).floatValue
             if(f<=tot){
                 v.backgroundColor = okColor
+                cleared += 1
             }
             else{
                 v.backgroundColor = UIColor.white()
@@ -615,26 +702,44 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         schoolScroll.showsHorizontalScrollIndicator = false
         schoolScroll.showsVerticalScrollIndicator = false
         if(textField.text != ""){
-            for subView in schoolScroll.subviews {
+            for s in schoolScrollViews {
+                s.removeFromSuperview()
+            }
+            for subView in schoolScrollViews {
                 if(subView.subviews.count>0){
                     if let l = subView.subviews[0] as? UILabel{
-                        if(l.text?.lowercased().range(of: textField.text!.lowercased()) != nil){}else{
+                        if(l.text?.lowercased().range(of: textField.text!.lowercased()) != nil){
+                            if(subView.superview == nil){
+                                schoolScroll.addSubview(subView)
+                            }
+                        }else{
                             subView.removeFromSuperview()
                         }
                     }
                 }
             }
-            for (i, sview) in schoolScroll.subviews.enumerated() {
-                sview.frame.origin.y = sview.frame.height*CGFloat(i)
-            }
-            var totRect = CGRect.zero
-            for vi in schoolScroll.subviews {
-                totRect = totRect.union(vi.frame)
-            }
-            totRect.size.height += 0.0
-            schoolScroll.contentSize = totRect.size
+            
             
         }
+        else{
+            for s in schoolScrollViews {
+                s.removeFromSuperview()
+            }
+            for subView in schoolScrollViews {
+                if(subView.superview == nil){
+                    schoolScroll.addSubview(subView)
+                }
+            }
+        }
+        for (i, sview) in schoolScroll.subviews.enumerated() {
+            sview.frame.origin.y = sview.frame.height*CGFloat(i)
+        }
+        var totRect = CGRect.zero
+        for vi in schoolScroll.subviews {
+            totRect = totRect.union(vi.frame)
+        }
+        totRect.size.height += 0.0
+        schoolScroll.contentSize = totRect.size
         schoolScroll.showsVerticalScrollIndicator = vScroll
         schoolScroll.showsHorizontalScrollIndicator = hScroll
         
