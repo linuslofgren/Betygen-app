@@ -247,7 +247,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
             gradesForSemesters.append(arr)
         }
         for (i, e) in semesters.enumerated() {
-            print(gradesForSemesters[i])
+            //print(gradesForSemesters[i])
         }
         statView.frame = view.frame
         selectView.frame = view.frame
@@ -447,8 +447,6 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         btnRight.frame.origin.x = headerLabel.frame.origin.x+headerLabel.frame.width+10.0
         btnRight.frame.origin.y = upperView.frame.height/2-btnRight.frame.height/2
         btnRight.addTarget(self, action: #selector(incr), for: UIControlEvents.touchUpInside)
-        btnRight.layer.borderColor = UIColor.black().cgColor
-        btnRight.layer.borderWidth = 1.0
         
         selectView.layer.addSublayer(downGrad)
         selectView.layer.addSublayer(uppUppGrad)
@@ -552,7 +550,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
     func falsify(v: UIView){
         if let a = v as? UIScrollView{
             a.scrollsToTop = false
-            print("FALSE")
+            //print("FALSE")
         }
         for sv in v.subviews {
             //print("FALSE-")
@@ -624,11 +622,11 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
                 }
             }
             else{
-                print("e")
+                //print("e")
             }
             
         }catch{
-            print("Error: \(error)")
+            //print("Error: \(error)")
         }
     }
     
