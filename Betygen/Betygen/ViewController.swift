@@ -37,6 +37,7 @@ enum ämnen: String{
     case Slöjd
     case Svenska
     case Teknik
+    case CSpråk
 }
 
 class programContainer {
@@ -201,10 +202,53 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
     
     var schoolScrollViews: [UIView] = []
     
+    var semesters: [String] = []
+    var gradesForSemesters: [[Float]] = []
+    
+    
+    let headerLabel = UILabel()
+    
+    var _semester = 0
+    
+    var semester: Int{
+        set (num){
+            if(semesters.count>0){
+                if(num>semesters.count-1){
+                    _semester = semesters.count-1
+                }
+                else if(num<0){
+                    _semester = 0
+                }
+                else{
+                    _semester = num
+                }
+            }
+            
+        }
+        get{
+            return _semester
+        }
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        semester = 4
+        let b = [ämnen.Bild, .Biologi,.Engelska,.Fysik,.Geografi,.Hemochkonsumentkunskap,.Historia,.Idrott,.Kemi,.Matematik,.Musik,.Religionskunskap,.Samhällskunskap,.Slöjd,.Svenska,.Teknik,.CSpråk]
         // Do any additional setup after loading the view, typically from a nib.
-        
+        for i in 6...9{
+            semesters.append("HT ÅK \(i)")
+            semesters.append("VT ÅK \(i)")
+        }
+        for sem in semesters {
+            var arr: [Float] = []
+            for grade in b {
+                arr.append(0.0)
+            }
+            gradesForSemesters.append(arr)
+        }
+        for (i, e) in semesters.enumerated() {
+            print(gradesForSemesters[i])
+        }
         statView.frame = view.frame
         selectView.frame = view.frame
         schoolView.frame = view.frame
@@ -285,7 +329,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         border.backgroundColor = UIColor.black().cgColor
         //upperView.layer.addSublayer(border)
         
-        let b = [ämnen.Bild, .Biologi,.Engelska,.Fysik,.Geografi,.Hemochkonsumentkunskap,.Historia,.Idrott,.Kemi,.Matematik,.Musik,.Religionskunskap,.Samhällskunskap,.Slöjd,.Svenska,.Teknik]
+        
         
         
         
@@ -299,6 +343,9 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
             }
             else if(e == ämnen.Idrott){
                 la.text = "Idrott och Hälsa"
+            }
+            else if(e == ämnen.CSpråk){
+                la.text = "C-Språk"
             }
             else{
                 la.text = e.rawValue
@@ -374,12 +421,12 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         
         let fontSize: CGFloat = 35.0
         
-        let label = UILabel()
-        label.text = "HT ÅK 8"
-        label.font = UIFont(name: (label.font?.fontName)!, size: fontSize)
-        label.sizeToFit()
-        label.frame.origin.x = upperView.frame.width/2-label.frame.width/2
-        label.frame.origin.y = upperView.frame.height/2-label.frame.height/2
+        
+        headerLabel.text = semesters[semester]
+        headerLabel.font = UIFont(name: (headerLabel.font?.fontName)!, size: fontSize)
+        headerLabel.sizeToFit()
+        headerLabel.frame.origin.x = upperView.frame.width/2-headerLabel.frame.width/2
+        headerLabel.frame.origin.y = upperView.frame.height/2-headerLabel.frame.height/2
         
         
         
@@ -388,21 +435,25 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         btnLeft.titleLabel?.font = UIFont(name: (btnLeft.titleLabel?.font.fontName)!, size: fontSize)
         btnLeft.setTitleColor(UIColor.black(), for: [])
         btnLeft.sizeToFit()
-        btnLeft.frame.origin.x = label.frame.origin.x-btnLeft.frame.width-10.0
+        btnLeft.frame.origin.x = headerLabel.frame.origin.x-btnLeft.frame.width-10.0
         btnLeft.frame.origin.y = upperView.frame.height/2-btnLeft.frame.height/2
+        btnLeft.addTarget(self, action: #selector(lower), for: UIControlEvents.touchUpInside)
         
         let btnRight = UIButton()
         btnRight.setTitle(">", for: [])
         btnRight.titleLabel?.font = UIFont(name: (btnRight.titleLabel?.font.fontName)!, size: fontSize)
         btnRight.setTitleColor(UIColor.black(), for: [])
         btnRight.sizeToFit()
-        btnRight.frame.origin.x = label.frame.origin.x+label.frame.width+10.0
+        btnRight.frame.origin.x = headerLabel.frame.origin.x+headerLabel.frame.width+10.0
         btnRight.frame.origin.y = upperView.frame.height/2-btnRight.frame.height/2
+        btnRight.addTarget(self, action: #selector(incr), for: UIControlEvents.touchUpInside)
+        btnRight.layer.borderColor = UIColor.black().cgColor
+        btnRight.layer.borderWidth = 1.0
         
         selectView.layer.addSublayer(downGrad)
         selectView.layer.addSublayer(uppUppGrad)
         upperView.layer.addSublayer(upperGrad)
-        upperView.addSubview(label)
+        upperView.addSubview(headerLabel)
         upperView.addSubview(btnLeft)
         upperView.addSubview(btnRight)
         selectView.addSubview(scroll)
@@ -468,6 +519,34 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         scroll.scrollsToTop = false
         schoolScroll.scrollsToTop = true
         schoolScroll.delegate = self
+    }
+    
+    func lower(){
+        
+        semester -= 1
+        headerLabel.text = semesters[semester]
+        resSe()
+        segCh(UISegmentedControl())
+    }
+    func incr(){
+        semester += 1
+        headerLabel.text = semesters[semester]
+        resSe()
+        segCh(UISegmentedControl())
+    }
+    
+    func resSe(){
+        for (i,se) in segments.enumerated(){
+            let gr = gradesForSemesters[semester][i]
+            if(gr == 0.0){
+                se.selectedSegmentIndex = 0
+            }
+            else{
+                let index = Int((((gr-10)/2.5))+1)
+                se.selectedSegmentIndex = index
+            }
+            
+        }
     }
     
     func falsify(v: UIView){
@@ -661,11 +740,16 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
     
     func segCh(_ sender: UISegmentedControl){
         var tot: Float = 0.0
-        for se in segments{
+        for (i, se) in segments.enumerated(){
             if(se.selectedSegmentIndex>0){
-                let i = (Float(se.selectedSegmentIndex-1)*2.5)+10
-                //print(i)
-                tot += i
+                let j = (Float(se.selectedSegmentIndex-1)*2.5)+10
+                //print(j)
+                tot += j
+                gradesForSemesters[semester][i] = j
+            }
+            else{
+                tot += 0
+                gradesForSemesters[semester][i] = 0.0
             }
         }
         var str = ""
