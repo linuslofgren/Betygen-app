@@ -105,12 +105,18 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
             semesters.append("HT ÅK \(i)")
             semesters.append("VT ÅK \(i)")
         }
-        for sem in semesters {
-            var dic: [Ämnen: Betyg] = [:]
-            for grade in Ämnen.allÄmnen {
-                dic[grade] = Betyg.F
+        
+        if let tempGrades = getBetyg(){
+           gradesForSemesters = tempGrades
+        }
+        else{
+            for sem in semesters {
+                var dic = [Ämnen: Betyg]()
+                for grade in Ämnen.allÄmnen {
+                    dic[grade] = Betyg.F
+                }
+                gradesForSemesters.append(dic)
             }
-            gradesForSemesters.append(dic)
         }
         for (i, e) in semesters.enumerated() {
             //print(gradesForSemesters[i])
@@ -241,6 +247,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
             segments.append(selec)
             
         }
+        resSe()
         var totRect = CGRect.zero
         for vi in scroll.subviews {
             totRect = totRect.union(vi.frame)
@@ -605,18 +612,27 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         return v
     }
     
+    func isKärn(ämne: Ämnen)->Bool{
+        if ämne == .Svenska || ämne == .Matematik || ämne == .Engelska{
+            return true
+        }
+        else{
+            return false
+        }
+    }
+    
     func correctGrades(grades: [Ämnen: Betyg])->Float{
         var tot: Float = 0.0
         var cSpråk = false
         var lowest: Float?
         for (ämne, betyg) in grades {
             if lowest != nil {
-                if betyg.rawValue < lowest && ämne != .Svenska && ämne != .Matematik{
+                if betyg.rawValue < lowest && !isKärn(ämne: ämne) && betyg != .F{
                     lowest = betyg.rawValue
                 }
             }
             else{
-                if ämne != .Svenska && ämne != .Matematik{
+                if !isKärn(ämne: ämne) && betyg != .F{
                     lowest = betyg.rawValue
                 }
             }
@@ -635,7 +651,45 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         return tot
     }
     
+    func saveBetyg(){
+        var ster = [[String: Float]]()
+        for ämneBetyg in gradesForSemesters {
+            var dic = [String: Float]()
+            for (ämne, betyg) in ämneBetyg {
+                dic[ämne.rawValue] = betyg.rawValue
+            }
+            ster.append(dic)
+            
+        }
+        let def = UserDefaults.standard()
+        def.set(ster, forKey: "GRADES")
+    }
+    
+    func getBetyg()->[[Ämnen: Betyg]]?{
+        let def = UserDefaults.standard()
+        if let ster = def.array(forKey: "GRADES") as? [[String: Float]]{
+            var ämnenBetyg = [[Ämnen: Betyg]]()
+            for strFlo in ster {
+                var arr = [Ämnen: Betyg]()
+                for (str, flo) in strFlo {
+                    if let ämn = Ämnen(rawValue:str){
+                        if let bet = Betyg(rawValue: flo){
+                            arr[ämn] = bet
+                        }
+                        else{break}
+                    }
+                    else{break}
+                }
+                
+                ämnenBetyg.append(arr)
+            }
+            return ämnenBetyg
+        }
+        return nil
+    }
+    
     func segCh(_ sender: UISegmentedControl){
+        saveBetyg()
         var tot: Float = 0.0
         for (i, se) in segments.enumerated(){
             if(se.selectedSegmentIndex>0){
@@ -680,6 +734,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
                 v.backgroundColor = UIColor.white()
             }
         }
+        saveBetyg()
     }
     
     func textFieldDidEndEditing(_ textField: UITextField) {
