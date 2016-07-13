@@ -14,7 +14,10 @@
 		1A4FAFDF1D2BB24E00FC3A6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A4FAFDD1D2BB24E00FC3A6F /* LaunchScreen.storyboard */; };
 		1A4FAFEA1D2BB24E00FC3A6F /* BetygenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4FAFE91D2BB24E00FC3A6F /* BetygenTests.swift */; };
 		1A4FAFF51D2BB24E00FC3A6F /* BetygenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4FAFF41D2BB24E00FC3A6F /* BetygenUITests.swift */; };
-		1A4FB0031D2BB2B600FC3A6F /* modalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4FB0021D2BB2B600FC3A6F /* modalViewController.swift */; };
+		1A4FB0031D2BB2B600FC3A6F /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A4FB0021D2BB2B600FC3A6F /* ModalViewController.swift */; };
+		1A95C6E71D3639C600D0B834 /* ProgramContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A95C6E61D3639C600D0B834 /* ProgramContainer.swift */; };
+		1A95C6E91D363A5600D0B834 /* Program.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A95C6E81D363A5600D0B834 /* Program.swift */; };
+		1A95C6EB1D363A8000D0B834 /* Kommun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A95C6EA1D363A8000D0B834 /* Kommun.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +51,10 @@
 		1A4FAFF01D2BB24E00FC3A6F /* BetygenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BetygenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A4FAFF41D2BB24E00FC3A6F /* BetygenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetygenUITests.swift; sourceTree = "<group>"; };
 		1A4FAFF61D2BB24E00FC3A6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1A4FB0021D2BB2B600FC3A6F /* modalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = modalViewController.swift; sourceTree = "<group>"; };
+		1A4FB0021D2BB2B600FC3A6F /* ModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
+		1A95C6E61D3639C600D0B834 /* ProgramContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgramContainer.swift; sourceTree = "<group>"; };
+		1A95C6E81D363A5600D0B834 /* Program.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Program.swift; sourceTree = "<group>"; };
+		1A95C6EA1D363A8000D0B834 /* Kommun.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kommun.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +107,10 @@
 			children = (
 				1A4FAFD41D2BB24E00FC3A6F /* AppDelegate.swift */,
 				1A4FAFD61D2BB24E00FC3A6F /* ViewController.swift */,
-				1A4FB0021D2BB2B600FC3A6F /* modalViewController.swift */,
+				1A95C6EA1D363A8000D0B834 /* Kommun.swift */,
+				1A95C6E81D363A5600D0B834 /* Program.swift */,
+				1A95C6E61D3639C600D0B834 /* ProgramContainer.swift */,
+				1A4FB0021D2BB2B600FC3A6F /* ModalViewController.swift */,
 				1A4FAFD81D2BB24E00FC3A6F /* Main.storyboard */,
 				1A4FAFDB1D2BB24E00FC3A6F /* Assets.xcassets */,
 				1A4FAFDD1D2BB24E00FC3A6F /* LaunchScreen.storyboard */,
@@ -268,8 +277,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A4FB0031D2BB2B600FC3A6F /* modalViewController.swift in Sources */,
+				1A95C6E91D363A5600D0B834 /* Program.swift in Sources */,
+				1A95C6E71D3639C600D0B834 /* ProgramContainer.swift in Sources */,
+				1A4FB0031D2BB2B600FC3A6F /* ModalViewController.swift in Sources */,
 				1A4FAFD71D2BB24E00FC3A6F /* ViewController.swift in Sources */,
+				1A95C6EB1D363A8000D0B834 /* Kommun.swift in Sources */,
 				1A4FAFD51D2BB24E00FC3A6F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
