@@ -10,17 +10,18 @@ import UIKit
 
 
 //TODO: schoolScrollViews
-enum betyg: Double {
-    case f = 0.0
-    case e = 10.0
-    case d = 12.5
-    case c = 15.0
-    case b = 17.5
-    case a = 20.0
+enum Betyg: Float {
+    case F = 0.0
+    case E = 10.0
+    case D = 12.5
+    case C = 15.0
+    case B = 17.5
+    case A = 20.0
+    static let allBetyg = [F,E,D,C,B,A]
     
 }
 
-enum ämnen: String{
+enum Ämnen: String{
     case Bild
     case Biologi
     case Engelska
@@ -37,7 +38,9 @@ enum ämnen: String{
     case Slöjd
     case Svenska
     case Teknik
+    case ModernaSpråk
     case CSpråk
+    static let allÄmnen = [Bild, Biologi,Engelska,Fysik,Geografi,Hemochkonsumentkunskap,Historia,Idrott,Kemi,Matematik,Musik,Religionskunskap,Samhällskunskap,Slöjd,Svenska,Teknik,ModernaSpråk,CSpråk]
 }
 
 
@@ -67,7 +70,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
     var schoolScrollViews: [UIView] = []
     
     var semesters: [String] = []
-    var gradesForSemesters: [[Float]] = []
+    var gradesForSemesters: [[Ämnen: Betyg]] = []
     
     
     let headerLabel = UILabel()
@@ -97,18 +100,17 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
     override func viewDidLoad() {
         super.viewDidLoad()
         semester = 4
-        let b = [ämnen.Bild, .Biologi,.Engelska,.Fysik,.Geografi,.Hemochkonsumentkunskap,.Historia,.Idrott,.Kemi,.Matematik,.Musik,.Religionskunskap,.Samhällskunskap,.Slöjd,.Svenska,.Teknik,.CSpråk]
         // Do any additional setup after loading the view, typically from a nib.
         for i in 6...9{
             semesters.append("HT ÅK \(i)")
             semesters.append("VT ÅK \(i)")
         }
         for sem in semesters {
-            var arr: [Float] = []
-            for grade in b {
-                arr.append(0.0)
+            var dic: [Ämnen: Betyg] = [:]
+            for grade in Ämnen.allÄmnen {
+                dic[grade] = Betyg.F
             }
-            gradesForSemesters.append(arr)
+            gradesForSemesters.append(dic)
         }
         for (i, e) in semesters.enumerated() {
             //print(gradesForSemesters[i])
@@ -199,16 +201,19 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         
         
         
-        for (i, e) in b.enumerated(){
+        for (i, e) in Ämnen.allÄmnen.enumerated(){
             let la = UILabel()
             la.font = UIFont.systemFont(ofSize: 30.0)
-            if(e == ämnen.Hemochkonsumentkunskap){
+            if(e == Ämnen.Hemochkonsumentkunskap){
                 la.text = "Hem- och konsumentkunskap"
             }
-            else if(e == ämnen.Idrott){
+            else if(e == Ämnen.Idrott){
                 la.text = "Idrott och Hälsa"
             }
-            else if(e == ämnen.CSpråk){
+            else if(e == Ämnen.ModernaSpråk){
+                la.text = "Moderna Språk"
+            }
+            else if(e == Ämnen.CSpråk){
                 la.text = "C-Språk"
             }
             else{
@@ -399,12 +404,12 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
     
     func resSe(){
         for (i,se) in segments.enumerated(){
-            let gr = gradesForSemesters[semester][i]
-            if(gr == 0.0){
+            let gr: Betyg = gradesForSemesters[semester][Ämnen.allÄmnen[i]]!
+            if(gr == .F){
                 se.selectedSegmentIndex = 0
             }
             else{
-                let index = Int((((gr-10)/2.5))+1)
+                let index = Int((((gr.rawValue-10)/2.5))+1)
                 se.selectedSegmentIndex = index
             }
             
@@ -600,20 +605,55 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         return v
     }
     
+    func correctGrades(grades: [Ämnen: Betyg])->Float{
+        var tot: Float = 0.0
+        var cSpråk = false
+        var lowest: Float?
+        for (ämne, betyg) in grades {
+            if lowest != nil {
+                if betyg.rawValue < lowest && ämne != .Svenska && ämne != .Matematik{
+                    lowest = betyg.rawValue
+                }
+            }
+            else{
+                if ämne != .Svenska && ämne != .Matematik{
+                    lowest = betyg.rawValue
+                }
+            }
+            if ämne == .CSpråk {
+                cSpråk = true
+                continue
+            }
+            tot += betyg.rawValue
+        }
+        if cSpråk && lowest != nil{
+            if grades[.CSpråk]?.rawValue > lowest{
+                tot -= lowest!
+                tot += (grades[.CSpråk]?.rawValue)!
+            }
+        }
+        return tot
+    }
+    
     func segCh(_ sender: UISegmentedControl){
         var tot: Float = 0.0
         for (i, se) in segments.enumerated(){
             if(se.selectedSegmentIndex>0){
                 let j = (Float(se.selectedSegmentIndex-1)*2.5)+10
                 //print(j)
-                tot += j
-                gradesForSemesters[semester][i] = j
+                for betyg in Betyg.allBetyg {
+                    if(betyg.rawValue == j){
+                        gradesForSemesters[semester][Ämnen.allÄmnen[i]] = betyg
+                        break
+                    }
+                }
+                
             }
             else{
-                tot += 0
-                gradesForSemesters[semester][i] = 0.0
+                gradesForSemesters[semester][Ämnen.allÄmnen[i]] = .F
             }
         }
+        tot = correctGrades(grades: gradesForSemesters[semester])
         var str = ""
         if(tot<10){
             str = "00" + String(tot)
