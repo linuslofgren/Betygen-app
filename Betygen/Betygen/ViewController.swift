@@ -158,6 +158,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         poängLabel.frame.origin = CGPoint(x: statView.frame.width/2-poängLabel.frame.width/2, y: 20.0)
         statView.addSubview(poängLabel)
         
+        
         /*var web = UIWebView()
          web.frame.size = CGSize(width: statView.frame.width, height: 700.0)
          web.frame.origin = CGPoint(x: 0, y: 50.0)
@@ -393,6 +394,10 @@ class ViewController: UIViewController, UITextFieldDelegate, UIScrollViewDelegat
         scroll.scrollsToTop = false
         schoolScroll.scrollsToTop = true
         schoolScroll.delegate = self
+    }
+    
+    func draw() {
+        print("1")
     }
     
     func lower(){
