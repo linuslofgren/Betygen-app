@@ -9955,6 +9955,1648 @@
           "medRes": null,
           "kommun": "Vallentuna kommun"
         }
+      ],
+      "Malmö": [
+        {
+          "namn": "PEAB-skolan Malmö",
+          "program": "Bygg- och anläggningsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 190,
+          "antSlut": 107.5,
+          "medSlut": 107.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Bygg- och anläggningsprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet Malmö",
+          "program": "Bygg- och anläggningsprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 172,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "TAU Learning Hantverksgymnasium Malmö",
+          "program": "Bygg- och anläggningsprogrammet - Måleri",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö City",
+          "program": "Bygg- och anläggningsprogrammet - Plåtslageri",
+          "antPrel": "1)",
+          "medPrel": 177,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Värnhemsskolan Malmö",
+          "program": "Barn- och fritidsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 188,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Barn- och fritidsprogrammet - Fritid och hälsa - Idrottspecialisering",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Barn- och fritidsprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö City",
+          "program": "Barn- och fritidsprogrammet - Pedagogiskt arbete",
+          "antPrel": "1)",
+          "medPrel": 177,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö Limhamn",
+          "program": "El- och energiprogrammet - Automation",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Snitz gymnasium Malmö",
+          "program": "El- och energiprogrammet - Dator och kommunikationsteknik - För elev med neuropsyk. funktionsnedsättning",
+          "antPrel": "1)",
+          "medPrel": 153,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI-gymnasiet Malmö",
+          "program": "El- och energiprogrammet - Dator- och kommunikationsteknik",
+          "antPrel": "1)",
+          "medPrel": 198,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "El- och energiprogrammet - Dator- och kommunikationsteknik",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": 170,
+          "medSlut": 170,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "El- och energiprogrammet - Elteknik",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö Limhamn",
+          "program": "El- och energiprogrammet - Elteknik",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Universitetsholmens gymnasium Malmö",
+          "program": "El- och energiprogrammet - Elteknik",
+          "antPrel": 155,
+          "medPrel": 212,
+          "antSlut": 195,
+          "medSlut": 195,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "El- och energiprogrammet - Elteknik - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": 117.5,
+          "medSlut": 117.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet Malmö",
+          "program": "El- och energiprogrammet - Elteknik - lärling",
+          "antPrel": "1)",
+          "medPrel": 172,
+          "antSlut": 175,
+          "medSlut": 175,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hermods Gymnasium",
+          "program": "Ekonomiprogrammet",
+          "antPrel": 212.5,
+          "medPrel": 241,
+          "antSlut": 212.5,
+          "medSlut": 212.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Thoren Business School Malmö",
+          "program": "Ekonomiprogrammet",
+          "antPrel": 197.5,
+          "medPrel": 227,
+          "antSlut": 197.5,
+          "medSlut": 197.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Borgarskola",
+          "program": "Ekonomiprogrammet - Ekonomi",
+          "antPrel": 247.5,
+          "medPrel": 265,
+          "antSlut": 267.5,
+          "medSlut": 267.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Borgarskola",
+          "program": "Ekonomiprogrammet - Ekonomi - Engelskspråkig",
+          "antPrel": 247.5,
+          "medPrel": 265,
+          "antSlut": 242.5,
+          "medSlut": 242.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Malmö",
+          "program": "Ekonomiprogrammet - Ekonomi",
+          "antPrel": "1)",
+          "medPrel": 221,
+          "antSlut": 187.5,
+          "medSlut": 187.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Ekonomiprogrammet - Ekonomi",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Ekonomiprogrammet - Ekonomi - Idrottspecialisering",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium Malmö",
+          "program": "Ekonomiprogrammet - Ekonomi",
+          "antPrel": "1)",
+          "medPrel": 202,
+          "antSlut": 167.5,
+          "medSlut": 167.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Idrottsgymnasium",
+          "program": "Ekonomiprogrammet - Ekonomi - Idrott",
+          "antPrel": 237.5,
+          "medPrel": 275,
+          "antSlut": 242.5,
+          "medSlut": 242.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kunskapsgymnasiet Malmö",
+          "program": "Ekonomiprogrammet - Ekonomi",
+          "antPrel": "1)",
+          "medPrel": 218,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "ProCivitas Privata Gymnasium Malmö",
+          "program": "Ekonomiprogrammet - Ekonomi",
+          "antPrel": 287.5,
+          "medPrel": 305,
+          "antSlut": 305,
+          "medSlut": 305,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Borgarskola",
+          "program": "Ekonomiprogrammet - Juridik",
+          "antPrel": 247.5,
+          "medPrel": 265,
+          "antSlut": 250,
+          "medSlut": 250,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Ekonomiprogrammet - Juridik",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Ekonomiprogrammet - Juridik - Idrottspecialisering",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium Malmö",
+          "program": "Ekonomiprogrammet - Juridik",
+          "antPrel": "1)",
+          "medPrel": 202,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Snitz gymnasium Malmö",
+          "program": "Estetiska programmet - För elev med neuropsyk. funktionsnedsättning",
+          "antPrel": "1)",
+          "medPrel": 153,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Estetiska programmet - Bild och formgivning",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": 225,
+          "medSlut": 225,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Estetiska programmet - Bild och formgivning",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bryggeriets gymnasium Malmö",
+          "program": "Estetiska programmet - Bild och formgivning",
+          "antPrel": "1)",
+          "medPrel": 215,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Estetiska programmet - Estetik och media",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": 192.5,
+          "medSlut": 192.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "4ans gymnasium Malmö",
+          "program": "Estetiska programmet - Estetik och media",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Estetiska programmet - Estetik och media",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bryggeriets gymnasium Malmö",
+          "program": "Estetiska programmet - Estetik och media",
+          "antPrel": "1)",
+          "medPrel": 215,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Rytmus Malmö",
+          "program": "Estetiska programmet - Musik - Instrument/Sång",
+          "antPrel": "1)",
+          "medPrel": 239,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Rytmus Malmö",
+          "program": "Estetiska programmet - Musik - Musikproduktion",
+          "antPrel": "1)",
+          "medPrel": 239,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Rytmus Malmö",
+          "program": "Estetiska programmet - Musik - Singer/Songwriter",
+          "antPrel": "1)",
+          "medPrel": 239,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Estetiska programmet - Musik",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": 227.5,
+          "medSlut": 227.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Estetiska programmet - Musik - Spetsutbildning i Musik",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Estetiska programmet - Teater",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": 185,
+          "medSlut": 185,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Estetiska programmet - Teater",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Malmö",
+          "program": "Fordons- och transportprogrammet",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Agnesfrids gymnasium Malmö",
+          "program": "Fordons- och transportprogrammet",
+          "antPrel": "1)",
+          "medPrel": 175,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Fordons- och transportprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö Limhamn",
+          "program": "Fordons- och transportprogrammet - Personbil",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet Malmö",
+          "program": "Fordons- och transportprogrammet - Personbil - lärling",
+          "antPrel": "1)",
+          "medPrel": 172,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Agnesfrids gymnasium Malmö",
+          "program": "Fordons- och transportprogrammet - Transport",
+          "antPrel": "1)",
+          "medPrel": 175,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Värnhemsskolan Malmö",
+          "program": "Handels- och administrationsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 188,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö City",
+          "program": "Handels- och administrationsprogrammet - Handel och service",
+          "antPrel": "1)",
+          "medPrel": 177,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Handels- och administrationsprogrammet - Handel och service",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Idrottsgymnasium",
+          "program": "Handels- och administrationsprogrammet - Handel och service - Idrott",
+          "antPrel": 237.5,
+          "medPrel": 275,
+          "antSlut": 160,
+          "medSlut": 160,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Design Construction College Malmö",
+          "program": "Handels- och administrationsprogrammet - Handel och service",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet Malmö",
+          "program": "Handels- och administrationsprogrammet - Handel och service - lärling",
+          "antPrel": "1)",
+          "medPrel": 172,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Handels- och administrationsprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Värnhemsskolan Malmö",
+          "program": "Hotell- och turismprogrammet",
+          "antPrel": "1)",
+          "medPrel": 188,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Hotell- och turismprogrammet - Hotell och konferens",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Hotell- och turismprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Design Construction College Malmö",
+          "program": "Hotell- och turismprogrammet - Turism och resor",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Humanistiska programmet",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Humanistiska programmet - Språk",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "TAU Learning Hantverksgymnasium Malmö",
+          "program": "Hantverksprogrammet - Finsnickeri - Interiör och design",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "TAU Learning Hantverksgymnasium Malmö",
+          "program": "Hantverksprogrammet - Finsnickeri - Möbeldesign",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Hantverksprogrammet - Finsnickeri - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Hantverksprogrammet - Florist - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Hantverksprogrammet - Frisör",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Värnhemsskolan Malmö",
+          "program": "Hantverksprogrammet - Frisör",
+          "antPrel": "1)",
+          "medPrel": 188,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Hantverksprogrammet - Frisör",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Hantverksprogrammet - Frisör - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö Limhamn",
+          "program": "Hantverksprogrammet - Hudvård",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Malmö",
+          "program": "Hantverksprogrammet - Hår- och makeupstylist",
+          "antPrel": "1)",
+          "medPrel": 221,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö Limhamn",
+          "program": "Hantverksprogrammet - Hår- och makeupstylist",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Drottning Blankas Gymnasieskola Malmö",
+          "program": "Hantverksprogrammet - Hår- och makeupstylist",
+          "antPrel": "1)",
+          "medPrel": 226,
+          "antSlut": 95,
+          "medSlut": 95,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Hantverksprogrammet - Hår- och makeupstylist - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö Limhamn",
+          "program": "Hantverksprogrammet - Låssmed",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "TAU Learning Hantverksgymnasium Malmö",
+          "program": "Hantverksprogrammet - Textil design",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Hantverksprogrammet - Textil design - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Hantverksprogrammet - Övriga hantverk - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bladins Internationella gymnasieskola",
+          "program": "International Baccalaureate - PRE Diploma program",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Borgarskola",
+          "program": "International Baccalaureate Pre-DP",
+          "antPrel": 247.5,
+          "medPrel": 265,
+          "antSlut": 260,
+          "medSlut": 260,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö City",
+          "program": "Industritekniska programmet - Svetsteknik",
+          "antPrel": "1)",
+          "medPrel": 177,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Naturvetenskapsprogrammet - Särskild variant Musik",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "ProCivitas Privata Gymnasium Malmö",
+          "program": "Naturvetenskapsprogrammet",
+          "antPrel": 287.5,
+          "medPrel": 305,
+          "antSlut": 322.5,
+          "medSlut": 322.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": 282.5,
+          "medSlut": 282.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hermods Gymnasium",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": 212.5,
+          "medPrel": 241,
+          "antSlut": 210,
+          "medSlut": 210,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Borgarskola",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": 247.5,
+          "medPrel": 265,
+          "antSlut": 275,
+          "medSlut": 275,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Borgarskola",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap - Internationell",
+          "antPrel": 247.5,
+          "medPrel": 265,
+          "antSlut": 275,
+          "medSlut": 275,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Pauliskolan Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": 197.5,
+          "medPrel": 237,
+          "antSlut": 225,
+          "medSlut": 225,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap - Idrottspecialisering",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "S:t Petri skola Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap - Klassisk",
+          "antPrel": 272.5,
+          "medPrel": 297,
+          "antSlut": 292.5,
+          "medSlut": 292.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "S:t Petri skola Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap - Science",
+          "antPrel": 272.5,
+          "medPrel": 297,
+          "antSlut": 315,
+          "medSlut": 315,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": "1)",
+          "medPrel": 202,
+          "antSlut": 227.5,
+          "medSlut": 227.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Idrottsgymnasium",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap - Idrott",
+          "antPrel": 237.5,
+          "medPrel": 275,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bladins gymnasium Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": 272.5,
+          "medPrel": 298,
+          "antSlut": 287.5,
+          "medSlut": 287.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kunskapsgymnasiet Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": "1)",
+          "medPrel": 218,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Einar Hansengymnasiet Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": 187.5,
+          "medPrel": 240,
+          "antSlut": 217.5,
+          "medSlut": 217.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Thoren Business School Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap",
+          "antPrel": 197.5,
+          "medPrel": 227,
+          "antSlut": 237.5,
+          "medSlut": 237.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap och samhälle",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap och samhälle - Idrottspecialisering",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap och samhälle",
+          "antPrel": "1)",
+          "medPrel": 202,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Thoren Business School Malmö",
+          "program": "Naturvetenskapsprogrammet - Naturvetenskap och samhälle",
+          "antPrel": 197.5,
+          "medPrel": 227,
+          "antSlut": 215,
+          "medSlut": 215,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Realgymnasiet Malmö",
+          "program": "Naturbruksprogrammet - Djur - Hund",
+          "antPrel": "1)",
+          "medPrel": 189,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Realgymnasiet Malmö",
+          "program": "Naturbruksprogrammet - Djur - Hästhållning",
+          "antPrel": "1)",
+          "medPrel": 189,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Realgymnasiet Malmö",
+          "program": "Naturbruksprogrammet - Djur - Djurvård",
+          "antPrel": "1)",
+          "medPrel": 189,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö Limhamn",
+          "program": "Naturbruksprogrammet - Djur",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Naturbruksprogrammet - Djur - lärling - Trav och galopp",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Realgymnasiet Malmö",
+          "program": "Naturbruksprogrammet - Skog - Natur och Äventyr",
+          "antPrel": "1)",
+          "medPrel": 189,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Värnhemsskolan Malmö",
+          "program": "Restaurang- och livsmedelsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 188,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Restaurang- och livsmedelsprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hermods Gymnasium",
+          "program": "Samhällsvetenskapsprogrammet",
+          "antPrel": 212.5,
+          "medPrel": 241,
+          "antSlut": 197.5,
+          "medSlut": 197.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Malmö",
+          "program": "Samhällsvetenskapsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 221,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Thoren Business School Malmö",
+          "program": "Samhällsvetenskapsprogrammet",
+          "antPrel": 197.5,
+          "medPrel": 227,
+          "antSlut": 200,
+          "medSlut": 200,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "ProCivitas Privata Gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Idrott",
+          "antPrel": 287.5,
+          "medPrel": 305,
+          "antSlut": 237.5,
+          "medSlut": 237.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Pauliskolan Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap",
+          "antPrel": 197.5,
+          "medPrel": 237,
+          "antSlut": 230,
+          "medSlut": 230,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Pauliskolan Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap - Bernadottegymnasiet",
+          "antPrel": 197.5,
+          "medPrel": 237,
+          "antSlut": 190,
+          "medSlut": 190,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "4ans gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap - Idrottspecialisering",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "S:t Petri skola Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap",
+          "antPrel": 272.5,
+          "medPrel": 297,
+          "antSlut": 282.5,
+          "medSlut": 282.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap",
+          "antPrel": "1)",
+          "medPrel": 202,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Idrottsgymnasium",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap - Idrott",
+          "antPrel": 237.5,
+          "medPrel": 275,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kunskapsgymnasiet Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap",
+          "antPrel": "1)",
+          "medPrel": 218,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Einar Hansengymnasiet Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap",
+          "antPrel": 187.5,
+          "medPrel": 240,
+          "antSlut": 215,
+          "medSlut": 215,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Drottning Blankas Gymnasieskola Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Beteendevetenskap - Kriminologi",
+          "antPrel": "1)",
+          "medPrel": 226,
+          "antSlut": 185,
+          "medSlut": 185,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Samhällsvetenskapsprogrammet - Medier information och kommunikation",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": 232.5,
+          "medSlut": 232.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "4ans gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Medier information och kommunikation",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö latinskola",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": "1)",
+          "medPrel": 233,
+          "antSlut": 245,
+          "medSlut": 245,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Borgarskola",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": 247.5,
+          "medPrel": 265,
+          "antSlut": 247.5,
+          "medSlut": 247.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Borgarskola",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap - Engelskspråkig",
+          "antPrel": 247.5,
+          "medPrel": 265,
+          "antSlut": 260,
+          "medSlut": 260,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Pauliskolan Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": 197.5,
+          "medPrel": 237,
+          "antSlut": 207.5,
+          "medSlut": 207.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "4ans gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": 175,
+          "medSlut": 175,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Fria Läroverken Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap - Idrottspecialisering",
+          "antPrel": "1)",
+          "medPrel": 182,
+          "antSlut": 230,
+          "medSlut": 230,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "S:t Petri skola Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": 272.5,
+          "medPrel": 297,
+          "antSlut": 272.5,
+          "medSlut": 272.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Snitz gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap - För elev med neuropsyk. funktionsnedsättning",
+          "antPrel": "1)",
+          "medPrel": 153,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": "1)",
+          "medPrel": 202,
+          "antSlut": 180,
+          "medSlut": 180,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bladins gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap - Internationell",
+          "antPrel": 272.5,
+          "medPrel": 298,
+          "antSlut": 247.5,
+          "medSlut": 247.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bladins gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap - Social Science: Internationell: Engelskspråkig",
+          "antPrel": 272.5,
+          "medPrel": 298,
+          "antSlut": 255,
+          "medSlut": 255,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kunskapsgymnasiet Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap",
+          "antPrel": "1)",
+          "medPrel": 218,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "ProCivitas Privata Gymnasium Malmö",
+          "program": "Samhällsvetenskapsprogrammet - Samhällsvetenskap - Internationell profil",
+          "antPrel": 287.5,
+          "medPrel": 305,
+          "antSlut": 302.5,
+          "medSlut": 302.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Pauliskolan Malmö",
+          "program": "Teknikprogrammet",
+          "antPrel": 197.5,
+          "medPrel": 237,
+          "antSlut": 195,
+          "medSlut": 195,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Snitz gymnasium Malmö",
+          "program": "Teknikprogrammet - Information- och medieteknik - För elev med neuropsyk. funktionsnedsättning",
+          "antPrel": "1)",
+          "medPrel": 153,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI-gymnasiet Malmö",
+          "program": "Teknikprogrammet - Informations- och medieteknik",
+          "antPrel": "1)",
+          "medPrel": 198,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Teknikprogrammet - Informations- och medieteknik",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Malmö",
+          "program": "Teknikprogrammet - Teknikvetenskap",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Malmö",
+          "program": "VVS- och fastighetsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 179,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Universitetsholmens gymnasium Malmö",
+          "program": "VVS- och fastighetsprogrammet",
+          "antPrel": 155,
+          "medPrel": 212,
+          "antSlut": 157.5,
+          "medSlut": 157.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "VVS- och fastighetsprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö City",
+          "program": "VVS- och fastighetsprogrammet - VVS",
+          "antPrel": "1)",
+          "medPrel": 177,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet Malmö",
+          "program": "VVS- och fastighetsprogrammet - VVS - lärling",
+          "antPrel": "1)",
+          "medPrel": 172,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Malmö City",
+          "program": "Vård- och omsorgsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 177,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Universitetsholmens gymnasium Malmö",
+          "program": "Vård- och omsorgsprogrammet",
+          "antPrel": 155,
+          "medPrel": 212,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Drottning Blankas Gymnasieskola Malmö",
+          "program": "Vård- och omsorgsprogrammet - Räddningsmedicin och akutsjukvård",
+          "antPrel": "1)",
+          "medPrel": 226,
+          "antSlut": 130,
+          "medSlut": 130,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Malmö Lärlingscenter",
+          "program": "Vård- och omsorgsprogrammet - lärling",
+          "antPrel": "1)",
+          "medPrel": 170,
+          "antSlut": null,
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        }
       ]
     }
   ]
