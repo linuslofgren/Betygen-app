@@ -1,0 +1,3499 @@
+{
+  "förklaring": {
+    "1)": "Alla behöriga sökande är antagna. Se behörighetsregler på www.grkom.se/gymnasieantagningen under rubriken Gymnasievalet",
+    "2)": "Enbart test. Utbildningen har inte antagning på betyg utan enbart på test",
+    "3)": "Ingen antagen på poäng. Det finns ingen behörig sökande",
+    "4)": "Till Introduktionsprogram görs ej preliminärantagning",
+    "5)": "Placering sker manuellt, ingen antagningspoäng. Mottagande skola har gjort antagningen"
+  },
+  "utbildningar": [
+    {
+      "ALE": [
+        {
+          "namn": "Ale gymnasium",
+          "program": "Introduktionsprogram IM - Individuellt alternativ",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ale gymnasium",
+          "program": "Introduktionsprogram IM - Språkintroduktion",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Barn- och fritidsprogrammet BF - Fritid och hälsa. lärling",
+          "antPrel": "1)",
+          "medPrel": 132.5,
+          "antSlut": "1)",
+          "medSlut": 158.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Bygg- och anläggningsprogrammet BA -Anläggningsfordon. lärling",
+          "antPrel": "1)",
+          "medPrel": 167.5,
+          "antSlut": "1)",
+          "medSlut": 182.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Bygg- och anläggningsprogrammet BA - Husbyggnad.lärling",
+          "antPrel": "1)",
+          "medPrel": 151.66,
+          "antSlut": "1)",
+          "medSlut": 171.87,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Bygg- och anläggningsprogrammet BA - Mark ochanläggning. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Bygg- och anläggningsprogrammet BA - Måleri. lärling",
+          "antPrel": "1)",
+          "medPrel": 167.5,
+          "antSlut": "1)",
+          "medSlut": 167.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Bygg- och anläggningsprogrammet BA - Plåtslageri.lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 125,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "El- och energiprogrammet EE - Elteknik. lärling",
+          "antPrel": "1)",
+          "medPrel": 154.16,
+          "antSlut": 135,
+          "medSlut": 177,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Fordons- och transportprogrammet FT - Godshantering.lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Fordons- och transportprogrammet FT - Lastbil ochmobila maskiner. lärling",
+          "antPrel": "1)",
+          "medPrel": 180,
+          "antSlut": "1)",
+          "medSlut": 197.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Fordons- och transportprogrammet FT - Personbil. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 129.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Fordons- och transportprogrammet FT - Transport. lärling",
+          "antPrel": "1)",
+          "medPrel": 175.41,
+          "antSlut": "1)",
+          "medSlut": 173.43,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Handels- och administrationsprogrammet HA - Handeloch service. lärling",
+          "antPrel": "1)",
+          "medPrel": 118.75,
+          "antSlut": "1)",
+          "medSlut": 175,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Industritekniska programmet IN - Produkt ochmaskinteknik. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Industritekniska programmet IN - Svetsteknik. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 97.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Barn- och fritidsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Bygg- och anläggningsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 110,
+          "medSlut": 135,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Bygg- och anläggningsprogrammet inriktning Anläggningsfordon",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 135,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Bygg- och anläggningsprogrammet inriktning Husbyggnad",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Fordons- och transportprogrammet inriktning Personbil",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 121.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Fordons- och transportprogrammet inriktning Transport",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 88.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Handel- och administrationsprogrammet inriktning Handel och service",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 127,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Industritekniska programmet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Barnochfritidsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Byggochanläggningsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 85,
+          "medSlut": 93.33,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motFordons- och transportprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 72.5,
+          "medSlut": 81.66,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lärlingsgymnasiet i Ale",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motHandels- och administrationsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 30.5,
+          "medSlut": 53.33,
+          "antRes": null,
+          "medRes": null
+        }
+      ],
+      "ALINGS≈S": [
+        {
+          "namn": "Alingsås Yrkesgymnasium",
+          "program": "Fordons- och transportprogrammet FT",
+          "antPrel": "1)",
+          "medPrel": 187.5,
+          "antSlut": 127.5,
+          "medSlut": 189.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alingsås Yrkesgymnasium",
+          "program": "Hantverksprogrammet HV - Frisör",
+          "antPrel": "1)",
+          "medPrel": 198.75,
+          "antSlut": "1)",
+          "medSlut": 207.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alingsås Yrkesgymnasium",
+          "program": "Hantverksprogrammet HV - Textil design",
+          "antPrel": "1)",
+          "medPrel": 187.5,
+          "antSlut": "1)",
+          "medSlut": 170,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alingsås Yrkesgymnasium",
+          "program": "Introduktionsprogram IM - Programinriktat individuelltval mot Fordons- och transportprogrammet inriktning Personbil",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 142.5,
+          "medSlut": 143.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alingsås Yrkesgymnasium",
+          "program": "Introduktionsprogram IM - Programinriktat individuelltval mot Hantverksprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Barn- och fritidsprogrammet BF",
+          "antPrel": "1)",
+          "medPrel": 195.41,
+          "antSlut": "1)",
+          "medSlut": 177.77,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Bygg- och anläggningsprogrammet BA",
+          "antPrel": "1)",
+          "medPrel": 174.23,
+          "antSlut": 167.5,
+          "medSlut": 187.96,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Bygg- och anläggningsprogrammet BA - Husbyggnad.lärling",
+          "antPrel": "1)",
+          "medPrel": 165,
+          "antSlut": "1)",
+          "medSlut": 154.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Bygg- och anläggningsprogrammet BA - Måleri. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Bygg- och anläggningsprogrammet BA - Plåtslageri. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": "1)",
+          "medPrel": 235.22,
+          "antSlut": "1)",
+          "medSlut": 239.96,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "El- och energiprogrammet EE",
+          "antPrel": 172.5,
+          "medPrel": 216.04,
+          "antSlut": 200,
+          "medSlut": 233.87,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Estetiska programmet ES - Dans",
+          "antPrel": "1)",
+          "medPrel": 258.5,
+          "antSlut": "1)",
+          "medSlut": 297.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Estetiska programmet ES - Musik",
+          "antPrel": "1)",
+          "medPrel": 265.43,
+          "antSlut": "1)",
+          "medSlut": 269.8,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": "1)",
+          "medPrel": 183.38,
+          "antSlut": 167.5,
+          "medSlut": 194.72,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Humanistiska programmet HU",
+          "antPrel": "1)",
+          "medPrel": 262.18,
+          "antSlut": "1)",
+          "medSlut": 276.66,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Introduktionsprogram IM - Individuellt alternativ",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Introduktionsprogram IM - Preparandutbildning",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Barn- och fritidsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 144.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Bygg- och anläggningsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 118.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot El och energiprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 90,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Restaurang- och livsmedelsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 117.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Vård- och omsorgsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 85,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": "1)",
+          "medPrel": 270.83,
+          "antSlut": "1)",
+          "medSlut": 278.66,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Restaurang- och livsmedelsprogrammet RL",
+          "antPrel": "1)",
+          "medPrel": 209,
+          "antSlut": "1)",
+          "medSlut": 190.93,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 244,
+          "antSlut": "1)",
+          "medSlut": 251.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Teknikprogrammet TE",
+          "antPrel": "1)",
+          "medPrel": 239.76,
+          "antSlut": "1)",
+          "medSlut": 250.89,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Alströmergymnasiet",
+          "program": "Vård- och omsorgsprogrammet VO - Vård- ochomsorgsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 205.27,
+          "antSlut": "1)",
+          "medSlut": 228.05,
+          "antRes": null,
+          "medRes": null
+        }
+      ],
+      "G÷TEBORG": [
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": "1)",
+          "medPrel": 172.5,
+          "antSlut": "1)",
+          "medSlut": 192.85,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": "1)",
+          "medPrel": 150.83,
+          "antSlut": "1)",
+          "medSlut": 147.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Handels- och administrationsprogrammet HA - Handel ochservice. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Individuellt alternativ",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Preparandutbildning. Allmän",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Handels- och administrationsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 131.38,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Vård- och omsorgsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 85,
+          "medSlut": 108.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion. Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion. Nybörjare",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion. tisus/sprintus",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Vård- ochomsorgsprogrammet",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 76.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": "1)",
+          "medPrel": 224.44,
+          "antSlut": "1)",
+          "medSlut": 227.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 210.83,
+          "antSlut": "1)",
+          "medSlut": 189.53,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Vård- och omsorgsprogrammet VO - lärling",
+          "antPrel": "1)",
+          "medPrel": 190,
+          "antSlut": "1)",
+          "medSlut": 124.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet",
+          "program": "Vård- och omsorgsprogrammet VO - Vård- ochomsorgsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 158.75,
+          "antSlut": "1)",
+          "medSlut": 129.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet enhet 5",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet enhet 5",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 185,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet enhet 5",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Angeredsgymnasiet enhet 5",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 142.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Aniaragymnasiet ",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": "1)",
+          "medPrel": 206.07,
+          "antSlut": "1)",
+          "medSlut": 200.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Aniaragymnasiet",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": "1)",
+          "medPrel": 140.83,
+          "antSlut": "1)",
+          "medSlut": 148.09,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Aniaragymnasiet ",
+          "program": "Handels- och administrationsprogrammet HA - Handel ochservice. lärling",
+          "antPrel": "1)",
+          "medPrel": 187.85,
+          "antSlut": "1)",
+          "medSlut": 179.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Aniaragymnasiet",
+          "program": "Hotell- och turismprogrammet (Travel Management) HT",
+          "antPrel": "1)",
+          "medPrel": 215.39,
+          "antSlut": 155,
+          "medSlut": 223.26,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Aniaragymnasiet",
+          "program": "Introduktionsprogram IM - Preparandutbildning. Allmän",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Aspero Idrottsgymn Göteborg",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 207.5,
+          "medPrel": 243.83,
+          "antSlut": 215,
+          "medSlut": 247.41,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Aspero Idrottsgymn Göteborg",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 226.01,
+          "antSlut": "1)",
+          "medSlut": 222.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bernadottegymnasiet",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 208,
+          "medPrel": 240.99,
+          "antSlut": 228,
+          "medSlut": 259.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Bygg- och anläggningsprogrammet BA",
+          "antPrel": "1)",
+          "medPrel": 186.38,
+          "antSlut": "1)",
+          "medSlut": 168.96,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Bygg- och anläggningsprogrammet BA - Husbyggnad. särskildvariant",
+          "antPrel": "1)",
+          "medPrel": 193.5,
+          "antSlut": "1)",
+          "medSlut": 195.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Introduktionsprogram IM - Individuellt alternativ. Allmän",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Introduktionsprogram IM - Individuellt alternativ. Skola-PraktikArbete",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Introduktionsprogram IM - Preparandutbildning",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt val motBygg- och anläggningsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 105.29,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion. Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Bygg- ochanläggningsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 135,
+          "medSlut": 149.72,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Bygg- ochanläggningsprogrammet med förstärkt svenska som andraspråk ",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Bräckegymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion. Allmän",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum enhet 3",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 221.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum enhet 3",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 185,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Barn- och fritidsprogrammet BF",
+          "antPrel": "1)",
+          "medPrel": 158,
+          "antSlut": "1)",
+          "medSlut": 139.94,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Barn- och fritidsprogrammet BF -Fritid och hälsa. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 170,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Barn- och fritidsprogrammet BF -Pedagogiskt arbete. lärling",
+          "antPrel": "1)",
+          "medPrel": 173.12,
+          "antSlut": "1)",
+          "medSlut": 190,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Barn- och fritidsprogrammet BF -Socialt arbete. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 122.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Hantverksprogrammet HV - Frisör",
+          "antPrel": "1)",
+          "medPrel": 203.47,
+          "antSlut": 105,
+          "medSlut": 193.51,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Hantverksprogrammet HV - Textil design",
+          "antPrel": "1)",
+          "medPrel": 228.33,
+          "antSlut": 105,
+          "medSlut": 199.77,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Hantverksprogrammet HV - ÷vrigahantverk - hår- och makeupstylist",
+          "antPrel": "1)",
+          "medPrel": 182.5,
+          "antSlut": 130,
+          "medSlut": 192.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Hotell- och turismprogrammet HT",
+          "antPrel": "1)",
+          "medPrel": 220.38,
+          "antSlut": "1)",
+          "medSlut": 188.83,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Hotell- och turismprogrammet HT -Hotell och konferens. lärling",
+          "antPrel": "1)",
+          "medPrel": 225,
+          "antSlut": "1)",
+          "medSlut": 188.33,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Individuellt alternativ. Allmän",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Preparandutbildning. Allmän",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Preparandutbildning. Individuellt: NA",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Preparandutbildning. Individuellt: SA",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Programinriktat individuellt val mot Barn- och fritidsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 80,
+          "medSlut": 124.91,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Programinriktat individuellt val mot Hantverksprogrammet inriktning ÷vrigahantverk; hår och makeupstylist",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 90,
+          "medSlut": 127,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Programinriktat individuellt val mot Hantverksprogrammet profil Fashion design",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 90.83,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Programinriktat individuellt val mot Hotell- och turismprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 117.7,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Språkintroduktion. Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Yrkesintroduktion mot Barn- och fritidsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 53,
+          "medSlut": 92.58,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Yrkesintroduktion mot Hotell- och turismprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Yrkesintroduktion mot Natubruksprogrammet profil Smådjur/Hund",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 82.5,
+          "medSlut": 131.66,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Yrkesintroduktion mot Naturbruksprogrammet profil häst",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 70.62,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Introduktionsprogram IM -Yrkesintroduktion. Hantverk- Textil/makeupstylist",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 50.5,
+          "medSlut": 78.88,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Naturbruksprogrammet NB - Djur",
+          "antPrel": "1)",
+          "medPrel": 197.5,
+          "antSlut": "1)",
+          "medSlut": 185.83,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Naturvetenskapsprogrammet(Anpassad för elever med diagnos inom autismspektrum) NA",
+          "antPrel": "1)",
+          "medPrel": 209.37,
+          "antSlut": "1)",
+          "medSlut": 190.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Burgårdens Utbildningscentrum/August Kobb",
+          "program": "Samhällsvetenskapsprogrammet(Anpassad för elever med diagnos inom autismspektrum) SA",
+          "antPrel": "1)",
+          "medPrel": 295,
+          "antSlut": "1)",
+          "medSlut": 199.44,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Göteborg",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": "1)",
+          "medPrel": 191.5,
+          "antSlut": "1)",
+          "medSlut": 176.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Göteborg",
+          "program": "El- och energiprogrammet EE",
+          "antPrel": "1)",
+          "medPrel": 189.37,
+          "antSlut": "1)",
+          "medSlut": 163.33,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Preparandutbildning. EK",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Preparandutbildning. SA",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Göteborg",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": "1)",
+          "medPrel": 220,
+          "antSlut": 190.5,
+          "medSlut": 228.55,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Göteborg",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 226.78,
+          "antSlut": "1)",
+          "medSlut": 196.97,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Cybergymnasiet Göteborg",
+          "program": "Teknikprogrammet TE",
+          "antPrel": "1)",
+          "medPrel": 203.21,
+          "antSlut": 177.5,
+          "medSlut": 214,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Donnergymnasiet Göteborg",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 235.5,
+          "medPrel": 269.45,
+          "antSlut": 245.5,
+          "medSlut": 281.87,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Donnergymnasiet Göteborg",
+          "program": "Estetiska programmet ES - Musik",
+          "antPrel": "1)",
+          "medPrel": 250,
+          "antSlut": "1)",
+          "medSlut": 261.55,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Donnergymnasiet Göteborg",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 293,
+          "medPrel": 307.87,
+          "antSlut": 310,
+          "medSlut": 321.92,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Donnergymnasiet Göteborg",
+          "program": "Naturvetenskapsprogrammet NA - Särskild variantestetiska området. musik",
+          "antPrel": 377.5,
+          "medPrel": 289.89,
+          "antSlut": 417.5,
+          "medSlut": 296.45,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Donnergymnasiet Göteborg",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 233,
+          "medPrel": 272.5,
+          "antSlut": 255.5,
+          "medSlut": 283.21,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Drottning Blankas gymn Göteborg",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 225,
+          "medPrel": 247.42,
+          "antSlut": 238,
+          "medSlut": 259.62,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Drottning Blankas gymn Göteborg",
+          "program": "Estetiska programmet ES - Bild ochformgivning",
+          "antPrel": "1)",
+          "medPrel": 223.75,
+          "antSlut": 195,
+          "medSlut": 235.4,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Drottning Blankas gymn Göteborg",
+          "program": "Hantverksprogrammet HV - ÷vriga hantverk -hår- och makeupstylist",
+          "antPrel": 215.5,
+          "medPrel": 237.17,
+          "antSlut": 225.5,
+          "medSlut": 248.66,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Drottning Blankas gymn Göteborg",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 228,
+          "medPrel": 247.42,
+          "antSlut": 238,
+          "medSlut": 257.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ester Mosessons gymnasium",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot Restaurang- och livsmedelsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 135.46,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ester Mosessons gymnasium",
+          "program": "Introduktionsprogram IM - Språkintroduktion.Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ester Mosessons gymnasium",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motRestaurang- och livsmedelsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 10.5,
+          "medSlut": 69.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ester Mosessons gymnasium",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motRestaurang- och livsmedelsprogrammet med förstärkt svenska som andraspråk",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ester Mosessons gymnasium",
+          "program": "Restaurang- och livsmedelsprogrammet RL",
+          "antPrel": "1)",
+          "medPrel": 197.53,
+          "antSlut": "1)",
+          "medSlut": 192.32,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ester Mosessons gymnasium",
+          "program": "Restaurang- och livsmedelsprogrammet RL -Bageri och konditori. lärling",
+          "antPrel": "1)",
+          "medPrel": 206.78,
+          "antSlut": "1)",
+          "medSlut": 202.95,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ester Mosessons gymnasium",
+          "program": "Restaurang- och livsmedelsprogrammet RL - Kökoch servering. lärling ",
+          "antPrel": "1)",
+          "medPrel": 196.87,
+          "antSlut": "1)",
+          "medSlut": 199.77,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ester Mosessons gymnasium",
+          "program": "Restaurang- och livsmedelsprogrammet RL -Särskild variant. kött och chark (riksrekryterande)",
+          "antPrel": "1)",
+          "medPrel": 209.16,
+          "antSlut": "1)",
+          "medSlut": 210.83,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "El- och energiprogrammet EE",
+          "antPrel": "1)",
+          "medPrel": 190.83,
+          "antSlut": "1)",
+          "medSlut": 156.78,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Industritekniska programmet IN",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Individuellt alternativ",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Preparandutbildning",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot El och energiprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot Industritekniska programmet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot VVS- och fastighetsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Språkintroduktion",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot El- och energiprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 33,
+          "medSlut": 89.37,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motIndustritekniska programmet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motVVS- och fastighetsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 66.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion.Allmän",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "Teknikprogrammet TE",
+          "antPrel": "1)",
+          "medPrel": 235,
+          "antSlut": "1)",
+          "medSlut": 214.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Framtidsgymnasiet Göteborg",
+          "program": "VVS- och fastighetsprogrammet VF",
+          "antPrel": "1)",
+          "medPrel": 230,
+          "antSlut": "1)",
+          "medSlut": 176.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "GTG. Gbg-regionens tekn gymnasium",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 200.5,
+          "medPrel": 235.5,
+          "antSlut": 210,
+          "medSlut": 241.14,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "GTG. Gbg-regionens tekn gymnasium",
+          "program": "Industritekniska programmet IN -Driftsäkerhet och underhåll",
+          "antPrel": 180,
+          "medPrel": 214.47,
+          "antSlut": 197.5,
+          "medSlut": 229.37,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "GTG. Gbg-regionens tekn gymnasium",
+          "program": "Introduktionsprogram IM -Språkintroduktion. Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "GTG. Gbg-regionens tekn gymnasium",
+          "program": "Teknikprogrammet TE",
+          "antPrel": 213,
+          "medPrel": 251.52,
+          "antSlut": 247.5,
+          "medSlut": 281.23,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "GTI:s gymnasieskola",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": "1)",
+          "medPrel": 194.47,
+          "antSlut": 193,
+          "medSlut": 211.45,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "GTI:s gymnasieskola",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 195,
+          "medPrel": 234.19,
+          "antSlut": 210.5,
+          "medSlut": 244.64,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "GTI:s gymnasieskola",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 199.51,
+          "antSlut": 180,
+          "medSlut": 206.76,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "GTI:s gymnasieskola",
+          "program": "Teknikprogrammet TE",
+          "antPrel": "1)",
+          "medPrel": 200.69,
+          "antSlut": 203,
+          "medSlut": 222.32,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Gymnasieakademin (f.d. Handelsakademin)",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": "1)",
+          "medPrel": 212.66,
+          "antSlut": 185,
+          "medSlut": 213.95,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Gymnasieakademin (f.d. Handelsakademin)",
+          "program": "Handels- ochadministrationsprogrammet HA",
+          "antPrel": "1)",
+          "medPrel": 181.66,
+          "antSlut": "1)",
+          "medSlut": 170.38,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Gymnasieakademin (f.d. Handelsakademin)",
+          "program": "Hotell- och turismprogrammet HT",
+          "antPrel": "1)",
+          "medPrel": 208,
+          "antSlut": "1)",
+          "medSlut": 179.61,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Gymnasieakademin (f.d. Handelsakademin)",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": "1)",
+          "medPrel": 220.1,
+          "antSlut": 220.5,
+          "medSlut": 248,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Gymnasieakademin (f.d. Handelsakademin)",
+          "program": "SamhällsvetenskapsprogrammetSA",
+          "antPrel": "1)",
+          "medPrel": 203.75,
+          "antSlut": 200.5,
+          "medSlut": 220.41,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Göteborgs Högre samskola",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 285.5,
+          "medPrel": 298.49,
+          "antSlut": 303,
+          "medSlut": 314.95,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Göteborgs Högre samskola",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 290.5,
+          "medPrel": 308.23,
+          "antSlut": 313,
+          "medSlut": 325.21,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Göteborgs Högre samskola",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 260.5,
+          "medPrel": 279.62,
+          "antSlut": 275.5,
+          "medSlut": 293.77,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hermods Gymnasium",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 223,
+          "medPrel": 248.3,
+          "antSlut": 245.5,
+          "medSlut": 268.22,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hermods Gymnasium",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 223,
+          "medPrel": 251.45,
+          "antSlut": 250,
+          "medSlut": 271.95,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hermods Gymnasium",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 210,
+          "medPrel": 237.17,
+          "antSlut": 233,
+          "medSlut": 251.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 240.5,
+          "medPrel": 265.24,
+          "antSlut": 258,
+          "medSlut": 279.36,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Estetiska programmet ES - Musik",
+          "antPrel": "1)",
+          "medPrel": 259.82,
+          "antSlut": "1)",
+          "medSlut": 262.37,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Estetiska programmet ES - Musik (spetsutbildning)",
+          "antPrel": 536,
+          "medPrel": 289.33,
+          "antSlut": 557,
+          "medSlut": 301.34,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": 132.5,
+          "medPrel": 200.78,
+          "antSlut": 203,
+          "medSlut": 229.57,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "International Baccalaureate IB",
+          "antPrel": "2)",
+          "medPrel": null,
+          "antSlut": "2)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Introduktionsprogram IM - Individuellt alternativ. Handel.Est. IT",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion.Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 268,
+          "medPrel": 292.15,
+          "antSlut": 288,
+          "medSlut": 309.31,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Naturvetenskapsprogrammet NA - Naturvetenskap(spetsutbildning)",
+          "antPrel": 351,
+          "medPrel": 284.83,
+          "antSlut": 292.5,
+          "medSlut": 295.08,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Hvitfeldtska gymnasiet",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 233,
+          "medPrel": 259.7,
+          "antSlut": 253,
+          "medSlut": 276.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "IHGR. Int high school of the Gothenburg",
+          "program": "International Baccalaureate IB",
+          "antPrel": "2)",
+          "medPrel": null,
+          "antSlut": "2)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "IHGR. Int high school of the Gothenburg",
+          "program": "Introduktionsprogram IM -Preparandutbildning. Individuellt: NA",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "IHGR. Int high school of the Gothenburg",
+          "program": "Introduktionsprogram IM -Preparandutbildning. Individuellt: SA",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "IHGR. Int high school of the Gothenburg",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 257.5,
+          "medPrel": 280.08,
+          "antSlut": 278,
+          "medSlut": 301.48,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "IHGR. Int high school of the Gothenburg",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 239.78,
+          "antSlut": 230,
+          "medSlut": 265.43,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Ingrid Segerstedts gymnasium",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 245.51,
+          "antSlut": 182.5,
+          "medSlut": 255.05,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "International IT college of Sweden",
+          "program": "Introduktionsprogram IM - Preparandutbildning",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "International IT college of Sweden",
+          "program": "Introduktionsprogram IM - Språkintroduktion.Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "International IT college of Sweden",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": "1)",
+          "medPrel": 212.5,
+          "antSlut": "1)",
+          "medSlut": 223.12,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "International IT college of Sweden",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 255,
+          "antSlut": "1)",
+          "medSlut": 202,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "International IT college of Sweden",
+          "program": "Teknikprogrammet TE",
+          "antPrel": "1)",
+          "medPrel": 221.66,
+          "antSlut": "1)",
+          "medSlut": 202.91,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "IT-gymnasiet Göteborg",
+          "program": "El- och energiprogrammet (IT-programmet) EE",
+          "antPrel": "1)",
+          "medPrel": 198.14,
+          "antSlut": 182.5,
+          "medSlut": 217.85,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "IT-gymnasiet Göteborg",
+          "program": "Estetiska programmet ES - Estetik och media",
+          "antPrel": 195,
+          "medPrel": 236.4,
+          "antSlut": 205,
+          "medSlut": 249.19,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "IT-gymnasiet Göteborg",
+          "program": "Teknikprogrammet TE",
+          "antPrel": 248,
+          "medPrel": 274.49,
+          "antSlut": 268,
+          "medSlut": 289.87,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 187.5,
+          "medPrel": 215.16,
+          "antSlut": 210,
+          "medSlut": 230.9,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": "1)",
+          "medPrel": 187.5,
+          "antSlut": 175.5,
+          "medSlut": 195,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 205.5,
+          "medPrel": 239.45,
+          "antSlut": 238,
+          "medSlut": 261.63,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Jensen Gymnasium",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 198,
+          "medPrel": 223.59,
+          "antSlut": 222.5,
+          "medSlut": 246.08,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 200.5,
+          "medPrel": 238.92,
+          "antSlut": 225.5,
+          "medSlut": 256.82,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Introduktionsprogram IM - Preparandutbilding. Individuellt:Hörsel",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Vård- och omsorgsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 117.5,
+          "medSlut": 155.1,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion. Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Vårdochomsorgsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 80.5,
+          "medSlut": 120.46,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 227.5,
+          "medPrel": 272.65,
+          "antSlut": 265.5,
+          "medSlut": 295.13,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 190.5,
+          "medPrel": 222.78,
+          "antSlut": 210.5,
+          "medSlut": 238.32,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Vård- och omsorgsprogrammet VO - lärling",
+          "antPrel": "1)",
+          "medPrel": 210.83,
+          "antSlut": 180,
+          "medSlut": 224.54,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Katrinelundsgymnasiet",
+          "program": "Vård- och omsorgsprogrammet VO - Vård- ochomsorgsprogrammet",
+          "antPrel": "1)",
+          "medPrel": 206.09,
+          "antSlut": 110.5,
+          "medSlut": 191.07,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas Ekonomi",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 238,
+          "medPrel": 266.26,
+          "antSlut": 255.5,
+          "medSlut": 280.62,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas Ekonomi",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": 210,
+          "medPrel": 243.07,
+          "antSlut": 245,
+          "medSlut": 259.79,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas Frisör",
+          "program": "Hantverksprogrammet HV - Frisör",
+          "antPrel": "1)",
+          "medPrel": 212.18,
+          "antSlut": "1)",
+          "medSlut": 192.66,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas Frisör",
+          "program": "ntroduktionsprogram IM - Programinriktat individuellt val motHantverksprogrammet inriktning Frisör",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 103,
+          "medSlut": 114,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas gymnasium",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 235.5,
+          "medPrel": 249.58,
+          "antSlut": 253,
+          "medSlut": 267.08,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas gymnasium",
+          "program": "Humanistiska programmet HU",
+          "antPrel": 222.5,
+          "medPrel": 252.75,
+          "antSlut": 242.5,
+          "medSlut": 269.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas gymnasium",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 257.5,
+          "medPrel": 280.32,
+          "antSlut": 280,
+          "medSlut": 300.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas gymnasium",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 230.5,
+          "medPrel": 255.98,
+          "antSlut": 252.5,
+          "medSlut": 275.27,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas Natur",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 255,
+          "medPrel": 285.43,
+          "antSlut": 278,
+          "medSlut": 306.63,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kitas Natur",
+          "program": "Teknikprogrammet TE",
+          "antPrel": 237.5,
+          "medPrel": 262.03,
+          "antSlut": 262.5,
+          "medSlut": 282.6,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kunskapsgymnasiet Göteborg",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": "1)",
+          "medPrel": 218.38,
+          "antSlut": 198,
+          "medSlut": 223.37,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kunskapsgymnasiet Göteborg",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 207.5,
+          "medPrel": 252.37,
+          "antSlut": 238,
+          "medSlut": 266.98,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kunskapsgymnasiet Göteborg",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 204.65,
+          "antSlut": 183,
+          "medSlut": 217.12,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Kunskapsgymnasiet Göteborg",
+          "program": "Teknikprogrammet TE",
+          "antPrel": "1)",
+          "medPrel": 213.12,
+          "antSlut": "1)",
+          "medSlut": 218.07,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "L M Engström gymnasium",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 260.5,
+          "medPrel": 284.32,
+          "antSlut": 285,
+          "medSlut": 305.77,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "L M Engström gymnasium",
+          "program": "Estetiska programmet ES - Musik",
+          "antPrel": 262.5,
+          "medPrel": 257.03,
+          "antSlut": 359.5,
+          "medSlut": 269.06,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "L M Engström gymnasium",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 272.5,
+          "medPrel": 297.85,
+          "antSlut": 285.5,
+          "medSlut": 311.94,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "L M Engström gymnasium",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 240.5,
+          "medPrel": 263.9,
+          "antSlut": 260.5,
+          "medSlut": 283.42,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "LBS kreativa gymnasiet Göteborg",
+          "program": "Estetiska programmet ES - Estetik och media",
+          "antPrel": 173,
+          "medPrel": 209.5,
+          "antSlut": 133,
+          "medSlut": 213.88,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "LBS kreativa gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Preparandutbildning",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "LBS kreativa gymnasiet Göteborg",
+          "program": "Teknikprogrammet TE",
+          "antPrel": "1)",
+          "medPrel": 213.45,
+          "antSlut": "1)",
+          "medSlut": 219.19,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "El- och energiprogrammet EE",
+          "antPrel": "1)",
+          "medPrel": 185.9,
+          "antSlut": "1)",
+          "medSlut": 186.58,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Industritekniska programmet IN - Produkt ochmaskinteknik",
+          "antPrel": "1)",
+          "medPrel": 196.87,
+          "antSlut": "1)",
+          "medSlut": 181.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Industritekniska programmet IN - Svetsteknik",
+          "antPrel": "1)",
+          "medPrel": 195,
+          "antSlut": "1)",
+          "medSlut": 173.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot El och energiprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 130,
+          "medSlut": 145.41,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot Industritekniska programmet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 113.12,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - SpråkintroduktionCFS Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - Språkintroduktion CFS Nybörjare",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - SpråkintroduktionLundby Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - SpråkintroduktionLundby Nybörjare",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - SpråkintroduktionStora Holm Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - SpråkintroduktionStora Holm Nybörjare",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Introduktionsprogram IM - Yrkesintroduktionmot Industritekniska programmet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Sjöfartsutbildningen SX",
+          "antPrel": "1)",
+          "medPrel": 199.06,
+          "antSlut": 165,
+          "medSlut": 213.33,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "Teknikprogrammet TE",
+          "antPrel": 208,
+          "medPrel": 240.84,
+          "antSlut": 205.5,
+          "medSlut": 245.21,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Lindholmens tekniska gymnasium",
+          "program": "VVS- och fastighetsprogrammet VF",
+          "antPrel": "1)",
+          "medPrel": 190.31,
+          "antSlut": 168,
+          "medSlut": 207.44,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Mikael Elias teoretiska gymn",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 275,
+          "medPrel": 292.8,
+          "antSlut": 280.5,
+          "medSlut": 300.23,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Mikael Elias teoretiska gymn",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 288,
+          "medPrel": 310.37,
+          "antSlut": 305.5,
+          "medSlut": 323.57,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Mikael Elias teoretiska gymn",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 275.5,
+          "medPrel": 299.09,
+          "antSlut": 287.5,
+          "medSlut": 313.06,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Mikael Elias teoretiska gymn",
+          "program": "Teknikprogrammet TE",
+          "antPrel": 207.5,
+          "medPrel": 264.01,
+          "antSlut": 235,
+          "medSlut": 280.91,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "MTG. Motorbranschens tekniska gymn",
+          "program": "Fordons- och transportprogrammet FT",
+          "antPrel": "1)",
+          "medPrel": 185.09,
+          "antSlut": "1)",
+          "medSlut": 172.68,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "MTG. Motorbranschens tekniska gymn",
+          "program": "Introduktionsprogram IM -Programinriktat individuellt val mot Fordons- och transportprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 118.33,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Munkebäcksgymnasiet Skånegatan",
+          "program": "Estetiska programmet ES - Musik",
+          "antPrel": "1)",
+          "medPrel": 238.36,
+          "antSlut": "1)",
+          "medSlut": 227.76,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Munkebäcksgymnasiet Skånegatan",
+          "program": "Introduktionsprogram IM - Språkintroduktion.Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI Gymnasiet Kronhusgatan",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": "1)",
+          "medPrel": 218.9,
+          "antSlut": 172.5,
+          "medSlut": 225.54,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI Gymnasiet Kronhusgatan",
+          "program": "El- och energiprogrammet (IT-programmet) EE",
+          "antPrel": "1)",
+          "medPrel": 183.08,
+          "antSlut": "1)",
+          "medSlut": 178.3,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI Gymnasiet Kronhusgatan",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": "1)",
+          "medPrel": 205.73,
+          "antSlut": 182.5,
+          "medSlut": 212.91,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI Gymnasiet Kronhusgatan",
+          "program": "Teknikprogrammet TE",
+          "antPrel": "1)",
+          "medPrel": 216.52,
+          "antSlut": 185,
+          "medSlut": 232.66,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI Mediegymnasiet",
+          "program": "Estetiska programmet ES - Estetik och media",
+          "antPrel": "1)",
+          "medPrel": 229.95,
+          "antSlut": 190,
+          "medSlut": 239.26,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI Mediegymnasiet",
+          "program": "Introduktionsprogram IM - Preparandutbildning. ES Estetikoch Media",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "NTI Mediegymnasiet",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 233.08,
+          "antSlut": "1)",
+          "medSlut": 233.11,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Peabskolan Göteborg",
+          "program": "Bygg- och anläggningsprogrammet BA",
+          "antPrel": "1)",
+          "medPrel": 186.07,
+          "antSlut": 117.5,
+          "medSlut": 183.81,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Peabskolan Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt valmot Bygg- och anläggningsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 137.5,
+          "medSlut": 167.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Peabskolan Göteborg",
+          "program": "Introduktionsprogram IM - Språkintroduktion. Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Göteborg",
+          "program": "Barn- och fritidsprogrammet BF",
+          "antPrel": "1)",
+          "medPrel": 180,
+          "antSlut": 147.5,
+          "medSlut": 199.7,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Göteborg",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": "1)",
+          "medPrel": 165,
+          "antSlut": "1)",
+          "medSlut": 174.28,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Göteborg",
+          "program": "Hantverksprogrammet HV - ÷vriga hantverk - hår- ochmakeupstylist",
+          "antPrel": "1)",
+          "medPrel": 182.37,
+          "antSlut": 155,
+          "medSlut": 201.87,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Göteborg",
+          "program": "Hotell- och turismprogrammet HT",
+          "antPrel": "1)",
+          "medPrel": 230.31,
+          "antSlut": "1)",
+          "medSlut": 201.56,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Preparandutbildning. Allmän",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Plusgymnasiet Göteborg",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 208,
+          "antSlut": "1)",
+          "medSlut": 196.37,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Polhemsgymnasiet",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 240.5,
+          "medPrel": 265.17,
+          "antSlut": 260.5,
+          "medSlut": 281.27,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Polhemsgymnasiet",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 265.5,
+          "medPrel": 285.36,
+          "antSlut": 280.5,
+          "medSlut": 301.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Polhemsgymnasiet",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 230.5,
+          "medPrel": 251.13,
+          "antSlut": 248,
+          "medSlut": 265.96,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Polhemsgymnasiet",
+          "program": "Teknikprogrammet TE",
+          "antPrel": 245.5,
+          "medPrel": 280.65,
+          "antSlut": 265.5,
+          "medSlut": 297.33,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Bygg- och anläggningsprogrammet BA -Husbyggnad. lärling",
+          "antPrel": "1)",
+          "medPrel": 171.25,
+          "antSlut": "1)",
+          "medSlut": 165,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Bygg- och anläggningsprogrammet BA - Markoch anläggning. lärling",
+          "antPrel": "1)",
+          "medPrel": 188.75,
+          "antSlut": "1)",
+          "medSlut": 203.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Bygg- och anläggningsprogrammet BA - Måleri.lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 158.33,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "El- och energiprogrammet EE - Elteknik. lärling",
+          "antPrel": "1)",
+          "medPrel": 150,
+          "antSlut": 115,
+          "medSlut": 159.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Fordons- och transportprogrammet FT -Karosseri och lackering. lärling",
+          "antPrel": "1)",
+          "medPrel": 208.75,
+          "antSlut": 202.5,
+          "medSlut": 213.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Fordons- och transportprogrammet FT - Lastbiloch mobila maskiner. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Fordons- och transportprogrammet FT -Personbil. lärling",
+          "antPrel": "1)",
+          "medPrel": 181.25,
+          "antSlut": "1)",
+          "medSlut": 187.08,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Hantverksprogrammet HV - ÷vriga hantverk -hår- och makeupstylist. lärling",
+          "antPrel": "1)",
+          "medPrel": 191,
+          "antSlut": 127.5,
+          "medSlut": 173.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Hantverksprogrammet HV - ÷vriga hantverk -låssmed. lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Industritekniska programmet IN - Svetsteknik.lärling",
+          "antPrel": "1)",
+          "medPrel": 173.75,
+          "antSlut": "1)",
+          "medSlut": 149.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot Bygg- och anläggningsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 77.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot El och energiprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 95,
+          "medSlut": 131.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot Fordons- och transportprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 143.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot Hantverksprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 118.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot Industritekniska programmet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot VVS- och fastighetsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 111.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktatindividuellt val mot Vård- och omsorgsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 110,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motBygg- och anläggningsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 10,
+          "medSlut": 31.87,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motFordons- och transportprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "3)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "VVS- och fastighetsprogrammet VF - Fastighet -lärling",
+          "antPrel": "1)",
+          "medPrel": 155,
+          "antSlut": "1)",
+          "medSlut": 172.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "VVS- och fastighetsprogrammet VF - Kyl- ochvärmepumpsteknik - lärling",
+          "antPrel": "1)",
+          "medPrel": 167.5,
+          "antSlut": "1)",
+          "medSlut": 172.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "VVS- och fastighetsprogrammet VF -Ventilationsteknik - lärling",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 90,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "VVS- och fastighetsprogrammet VF - VVS -lärling",
+          "antPrel": "1)",
+          "medPrel": 192.5,
+          "antSlut": 165,
+          "medSlut": 184.16,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Praktiska Gymnasiet Göteborg",
+          "program": "Vård- och omsorgsprogrammet VO - lärling",
+          "antPrel": "1)",
+          "medPrel": 200.83,
+          "antSlut": "1)",
+          "medSlut": 183.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Realgymnasiet Göteborg",
+          "program": "Introduktionsprogram IM - Programinriktat individuelltval mot Naturbruksprogrammet inriktning Djur",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 207.5,
+          "medSlut": 211.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Realgymnasiet Göteborg",
+          "program": "Naturbruksprogrammet NB - Djur",
+          "antPrel": 172.5,
+          "medPrel": 218.52,
+          "antSlut": 205.5,
+          "medSlut": 235.55,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Realgymnasiet Göteborg",
+          "program": "Naturbruksprogrammet NB - Skog",
+          "antPrel": 172.5,
+          "medPrel": 213.43,
+          "antSlut": 190,
+          "medSlut": 219.75,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Rytmus Göteborg",
+          "program": "Estetiska programmet ES - Musik",
+          "antPrel": "1)",
+          "medPrel": 231.1,
+          "antSlut": 275,
+          "medSlut": 240.91,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Rytmus Göteborg",
+          "program": "Introduktionsprogram IM - Preparandutbildning. ES",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 167.5,
+          "medPrel": 211.28,
+          "antSlut": 182.5,
+          "medSlut": 218.91,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Estetiska programmet ES - Bild och formgivning",
+          "antPrel": "1)",
+          "medPrel": 251.68,
+          "antSlut": "1)",
+          "medSlut": 251.06,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Estetiska programmet ES - Estetik och media",
+          "antPrel": "1)",
+          "medPrel": 236.5,
+          "antSlut": 175,
+          "medSlut": 236.38,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Estetiska programmet ES - Estetiska programmet; Bildoch formgivning (spetsutbildning)",
+          "antPrel": "1)",
+          "medPrel": 254.25,
+          "antSlut": "1)",
+          "medSlut": 259.84,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Estetiska programmet ES - Teater",
+          "antPrel": "1)",
+          "medPrel": 231.96,
+          "antSlut": "1)",
+          "medSlut": 243.48,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Humanistiska programmet HU",
+          "antPrel": "1)",
+          "medPrel": 243.06,
+          "antSlut": "1)",
+          "medSlut": 248.27,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Introduktionsprogram IM - Individuellt alternativ.Schillerska-Gårdsten",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Introduktionsprogram IM - Individuellt alternativ.Skyddsnätet",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion. Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": "1)",
+          "medPrel": 235.74,
+          "antSlut": 218,
+          "medSlut": 255.56,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Schillerska gymnasiet",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": "1)",
+          "medPrel": 223.02,
+          "antSlut": 185.5,
+          "medSlut": 229.87,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Sigrid Rudebecks gymn",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 288,
+          "medPrel": 313.17,
+          "antSlut": 305.5,
+          "medSlut": 326.03,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Sigrid Rudebecks gymn",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 255,
+          "medPrel": 283.23,
+          "antSlut": 265,
+          "medSlut": 297.01,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Sjölins gymnasium",
+          "program": "Ekonomiprogrammet EK",
+          "antPrel": 220.5,
+          "medPrel": 238.2,
+          "antSlut": 225,
+          "medSlut": 245.38,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Sjölins gymnasium",
+          "program": "Naturvetenskapsprogrammet NA",
+          "antPrel": 227.5,
+          "medPrel": 249.3,
+          "antSlut": 245.5,
+          "medSlut": 267.21,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Sjölins gymnasium",
+          "program": "Samhällsvetenskapsprogrammet SA",
+          "antPrel": 213,
+          "medPrel": 224.8,
+          "antSlut": 223,
+          "medSlut": 239.91,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "SKF tekniska gymn. STG",
+          "program": "Industritekniska programmet IN - Produkt ochmaskinteknik",
+          "antPrel": 198,
+          "medPrel": 226.25,
+          "antSlut": 200,
+          "medSlut": 236.09,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "SKF tekniska gymn. STG",
+          "program": "Teknikprogrammet TE",
+          "antPrel": 207.5,
+          "medPrel": 252.34,
+          "antSlut": 240,
+          "medSlut": 267.03,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Språkintroduktion Utbildningsförvaltning Göteborg",
+          "program": "Introduktionsprogram IM -Språkintroduktion. Fortsättning",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Språkintroduktion Utbildningsförvaltning Göteborg",
+          "program": "Introduktionsprogram IM -Språkintroduktion. Nybörjare",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Språkintroduktion Utbildningsförvaltning Göteborg",
+          "program": "Introduktionsprogram IM -Språkintroduktion. Sprintus",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Thoren Innovation School",
+          "program": "El- och energiprogrammet (IT program) EE",
+          "antPrel": "1)",
+          "medPrel": 171.66,
+          "antSlut": "1)",
+          "medSlut": 172.28,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Thoren Innovation School",
+          "program": "l.Introduktionsprogram IM - Preparandutbildning. TE",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Thoren Innovation School",
+          "program": "Introduktionsprogram IM - Programinriktat individuelltval mot El och energiprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 108.12,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Thoren Innovation School",
+          "program": "Teknikprogrammet (Innovation program) TE",
+          "antPrel": "1)",
+          "medPrel": 209.71,
+          "antSlut": "1)",
+          "medSlut": 219.69,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Handels- och administrationsprogrammet HA",
+          "antPrel": "1)",
+          "medPrel": 148.75,
+          "antSlut": "1)",
+          "medSlut": 158.88,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Hantverksprogrammet HV - Frisör. lärling",
+          "antPrel": "1)",
+          "medPrel": 165,
+          "antSlut": "1)",
+          "medSlut": 145.83,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Hotell- och turismprogrammet (Hotellreceptionist/Reseguide)HT",
+          "antPrel": "1)",
+          "medPrel": 160,
+          "antSlut": "1)",
+          "medSlut": 156.25,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt val motHandels- och administrationsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": 67.5,
+          "medSlut": 127.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt val motHantverksprogrammet inriktning Frisör",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 115.83,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt val motHotell- och turismprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 140.5,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Programinriktat individuellt val motVård- och omsorgsprogrammet",
+          "antPrel": "3)",
+          "medPrel": null,
+          "antSlut": "1)",
+          "medSlut": 111.78,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Språkintroduktion. Fortsättning",
+          "antPrel": null,
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Handels- ochadministrationsprogrammet. individbaserad",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion motHantverksprogrammet. individbaserad",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Hotell- ochturismprogrammet. individbaserad",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Introduktionsprogram IM - Yrkesintroduktion mot Vård- ochomsorgsprogrammet. Individbaserad",
+          "antPrel": "4)",
+          "medPrel": null,
+          "antSlut": "5)",
+          "medSlut": null,
+          "antRes": null,
+          "medRes": null
+        },
+        {
+          "namn": "Yrkesgymnasiet",
+          "program": "Vård- och omsorgsprogrammet VO - lärling",
+          "antPrel": "1)",
+          "medPrel": 182.5,
+          "antSlut": "1)",
+          "medSlut": 156.38,
+          "antRes": null,
+          "medRes": null
+        }
+      ]
+    }
+  ]
+}

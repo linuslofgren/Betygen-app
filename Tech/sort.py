@@ -1,6 +1,6 @@
 # coding:utf8
-fil = open("/Users/linuslofgren/Documents/Betyg/DATA/gymAleAliGbg.txt", "r")
-fullText = fil.read().decode(encoding="utf-16le", errors="strict").encode(encoding="utf-8", errors="strict")
+fil = open("/Users/linuslofgren/Documents/Betyg/Betygen/textEdited", "r")
+fullText = fil.read()#.decode(encoding="utf-16le", errors="strict").encode(encoding="utf-8", errors="strict")
 fullText = fullText.splitlines()
 fullText = ''.join(fullText)
 fullText = fullText.replace(",", ".")
@@ -107,5 +107,5 @@ outputStr += "]}]}"
 
 
 
-outFile = open("/Users/linuslofgren/Documents/Betyg/DATA/output.json", "w")
+outFile = open("/Users/linuslofgren/Documents/Betyg/output2016.json", "w")
 outFile.write(outputStr)
