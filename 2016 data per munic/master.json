@@ -10412,7 +10412,7 @@
           "program": "Estetiska programmet - Musik - Spetsutbildning i Musik",
           "antPrel": "1)",
           "medPrel": 233,
-          "antSlut": "C",
+          "antSlut": "2)",
           "medSlut": 327,
           "antRes": null,
           "medRes": null
@@ -10800,9 +10800,9 @@
         {
           "namn": "Bladins Internationella gymnasieskola",
           "program": "International Baccalaureate - PRE Diploma program",
-          "antPrel": "C",
+          "antPrel": "2)",
           "medPrel": null,
-          "antSlut": "C",
+          "antSlut": "2)",
           "medSlut": null,
           "antRes": null,
           "medRes": null
@@ -10832,7 +10832,7 @@
           "program": "Naturvetenskapsprogrammet - Särskild variant Musik",
           "antPrel": "1)",
           "medPrel": 233,
-          "antSlut": "C",
+          "antSlut": "2)",
           "medSlut": 312,
           "antRes": null,
           "medRes": null

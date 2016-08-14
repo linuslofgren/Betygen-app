@@ -20,10 +20,10 @@ fs.readFile("/Users/linuslofgren/Documents/Betyg/Betygen/malmo2016prelmerit.json
         var obj = {
           namn: slutprog.skola.trim(),
           program: slutprog.program.trim(),
-          antPrel: prelprog.antPrel=="A"?"1)":prelprog.antPrel=="B"?"3)":prelprog.antPrel,
-          medPrel: prelprog.medPrel=="A"?"1)":prelprog.medPrel=="B"?"3)":prelprog.medPrel,
-          antSlut: slutprog.antPrel=="A"?"1)":slutprog.antPrel=="B"?"3)":slutprog.antPrel,
-          medSlut: slutprog.medPrel=="A"?"1)":slutprog.medPrel=="B"?"3)":slutprog.medPrel,
+          antPrel: prelprog.antPrel=="A"?"1)":prelprog.antPrel=="B"?"3)":prelprog.antPrel=="C"?"2)":prelprog.antPrel,
+          medPrel: prelprog.medPrel=="A"?"1)":prelprog.medPrel=="B"?"3)":prelprog.medPrel=="C"?"2)":prelprog.medPrel,
+          antSlut: slutprog.antPrel=="A"?"1)":slutprog.antPrel=="B"?"3)":slutprog.antPrel=="C"?"2)":slutprog.antPrel,
+          medSlut: slutprog.medPrel=="A"?"1)":slutprog.medPrel=="B"?"3)":slutprog.medPrel=="C"?"2)":slutprog.medPrel,
           antRes: null,
           medRes: null
         }
