@@ -1,5 +1,5 @@
 # coding:utf8
-fil = open("/Users/linuslofgren/Documents/Betyg/Betygen/malmoRaw2016prelmerit.txt", "r")
+fil = open("/Users/linuslofgren/Documents/Betyg/Betygen/malmoRawData2016slutmerit.txt", "r")
 fullText = fil.read()#.decode(encoding="utf-16le", errors="strict").encode(encoding="utf-8", errors="strict")
 fullText = fullText.splitlines()
 text = ""
@@ -20,7 +20,7 @@ def getLowestMean(parts):
         except ValueError:
             if len(p)==1:
                 fl = p
-                newArr.append(fl)
+                newArr.append(fl.strip())
             else:
                 nameList.append(p)
     name = " ".join(nameList)
@@ -54,33 +54,47 @@ for i,row in enumerate(fullText):
         name = "".join(parts[:2])
         tup = getLowestMean(parts[1:])
     else:
-        print "ERROROROR"
-        print parts
         continue
-    print name
-    print tup[2]
-    print tup[:2]
-    antSlut = "null"
-    try:
-        if tup[0] == None:
-            antSlut = "null"
-        else:
-            antSlut = float(tup[0])
-    except ValueError:
-        antSlut = "\""+tup[0]+"\""
-    medSlut = "null"
-    try:
-        if tup[1] == None:
-            antSlut = "null"
-        else:
-            medSlut = float(tup[1])
-    except ValueError:
-        medSlut = "\""+tup[1]+"\""
 
+    antSlut = "null"
+    if tup[0]=="B":
+        antSlut="\"B\""
+    elif tup[0]=="A":
+        print "AN A"
+        antSlut="\"A\""
+        print antSlut
+    elif tup[0]=="C":
+        antSlut="\"C\""
+    elif tup[0]==None:
+        antSlut="null"
+    else:
+        try:
+            antSlut=float(tup[0])
+        except ValueError:
+            antSlut="\""+tup[0]+"\""
+    medSlut = "null"
+    if tup[1]=="B":
+        medSlut="\"B\""
+    elif tup[1]=="A":
+        medSlut="\"A\""
+    elif tup[1]=="C":
+        medSlut="\"C\""
+    elif tup[1]==None:
+        medSlut="null"
+    else:
+        try:
+            medSlut=float(tup[1])
+        except ValueError:
+            medSlut="\""+tup[1]+"\""
+    print name
+    print medSlut
+    print tup[1]
+    print antSlut
+    print tup[0]
     output += "{\"skola\":\""+tup[2]+"\",\"program\":\""+name+"\",\"antPrel\":"+str(antSlut)+",\"medPrel\":"+str(medSlut)+"},"
 
 
 output = output[:-1]+"]"
 
-outFile = open("/Users/linuslofgren/Documents/Betyg/Betygen/malmo2016prelmerit.json", "w")
+outFile = open("/Users/linuslofgren/Documents/Betyg/Betygen/malmo2016slutmerit.json", "w")
 outFile.write(output)

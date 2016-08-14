@@ -58,13 +58,13 @@ Handels- och administrationsprogrammet , Värnhemsskolan Malmö A 144.0
 Handels- och administrationsprogrammet - Handel och service , Praktiska Malmö City A 172.0
 Handels- och administrationsprogrammet - Handel och service , Fria Läroverken Malmö A 164.0
 Handels- och administrationsprogrammet - Handel och service - Idrott, Malmö Idrottsgymnasium 160.0 203.0
-Handels- och administrationsprogrammet - Handel och service , Design & Construction College Malmö A 205.0
+Handels- och administrationsprogrammet - Handel och service , Design and Construction College Malmö A 205.0
 Handels- och administrationsprogrammet - Handel och service - lärling , Yrkesgymnasiet Malmö A 197.0
 Handels- och administrationsprogrammet - lärling , Malmö Lärlingscenter A 168.0
 Hotell- och turismprogrammet , Värnhemsskolan Malmö A 182.0
 Hotell- och turismprogrammet - Hotell och konferens , Fria Läroverken Malmö A 208.0
 Hotell- och turismprogrammet - lärling , Malmö Lärlingscenter A 180.0
-Hotell- och turismprogrammet - Turism och resor , Design & Construction College Malmö A 180.0
+Hotell- och turismprogrammet - Turism och resor , Design and Construction College Malmö A 180.0
 Humanistiska programmet , Malmö latinskola A 253.0
 Humanistiska programmet - Språk , Cybergymnasiet Malmö A 232.0
 Hantverksprogrammet - Finsnickeri - Interiör och design, TAU Learning Hantverksgymnasium Malmö A 220.0

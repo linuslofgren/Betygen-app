@@ -16,19 +16,20 @@ fs.readFile("/Users/linuslofgren/Documents/Betyg/Betygen/malmo2016prelmerit.json
       for (var i = 0; i < slutdata.length; i++) {
         var slutprog = slutdata[i];
         var prelprog = preldata.find(function(obj){return obj.skola == slutprog.skola});
+        console.log(slutprog);
         var obj = {
           namn: slutprog.skola.trim(),
           program: slutprog.program.trim(),
           antPrel: prelprog.antPrel=="A"?"1)":prelprog.antPrel=="B"?"3)":prelprog.antPrel,
           medPrel: prelprog.medPrel=="A"?"1)":prelprog.medPrel=="B"?"3)":prelprog.medPrel,
-          antSlut: slutprog.antSlut=="A"?"1)":slutprog.antSlut=="B"?"3)":slutprog.antSlut,
-          medSlut: slutprog.medSlut=="A"?"1)":slutprog.medSlut=="B"?"3)":slutprog.medSlut,
+          antSlut: slutprog.antPrel=="A"?"1)":slutprog.antPrel=="B"?"3)":slutprog.antPrel,
+          medSlut: slutprog.medPrel=="A"?"1)":slutprog.medPrel=="B"?"3)":slutprog.medPrel,
           antRes: null,
           medRes: null
         }
+        //console.log(obj);
         master.push(obj)
       }
-      console.log(master);
       fs.writeFile("/Users/linuslofgren/Documents/tmpMalmo.json", JSON.stringify(master), function(){});
     });
   }
