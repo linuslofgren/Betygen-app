@@ -1,0 +1,166 @@
+Bygg- och anläggningsprogrammet , PEAB-skolan Malmö 107.5 176.0
+Bygg- och anläggningsprogrammet - lärling , Malmö Lärlingscenter A 161.0
+Bygg- och anläggningsprogrammet - lärling , Yrkesgymnasiet Malmö A 175.0
+Bygg- och anläggningsprogrammet - Måleri , TAU Learning Hantverksgymnasium Malmö A 175.0
+Bygg- och anläggningsprogrammet - Plåtslageri , Praktiska Malmö City A 182.0
+Barn- och fritidsprogrammet , Värnhemsskolan Malmö A 144.0
+Barn- och fritidsprogrammet - Fritid och hälsa - Idrottspecialisering, Fria Läroverken Malmö A 180.0
+Barn- och fritidsprogrammet - lärling , Malmö Lärlingscenter A 181.0
+Barn- och fritidsprogrammet - Pedagogiskt arbete , Praktiska Malmö City A 140.0
+El- och energiprogrammet - Automation , Praktiska Malmö Limhamn B
+El- och energiprogrammet - Dator och kommunikationsteknik - För elev med neuropsyk. funktionsnedsättning, Snitz gymnasium Malmö A 167.0
+El- och energiprogrammet - Dator- och kommunikationsteknik , NTI-gymnasiet Malmö A 179.0
+El- och energiprogrammet - Dator- och kommunikationsteknik , Cybergymnasiet Malmö 170.0 201.0
+El- och energiprogrammet - Elteknik , Cybergymnasiet Malmö A 160.0
+El- och energiprogrammet - Elteknik , Praktiska Malmö Limhamn A 170.0
+El- och energiprogrammet - Elteknik , Universitetsholmens gymnasium Malmö 195.0 229.0
+El- och energiprogrammet - Elteknik - lärling , Malmö Lärlingscenter 117.5 134.0
+El- och energiprogrammet - Elteknik - lärling , Yrkesgymnasiet Malmö 175.0 205.0
+Ekonomiprogrammet , Hermods Gymnasium 212.5 236.0
+Ekonomiprogrammet , Thoren Business School Malmö 197.5 231.0
+Ekonomiprogrammet - Ekonomi , Malmö Borgarskola 267.5 285.0
+Ekonomiprogrammet - Ekonomi - Engelskspråkig, Malmö Borgarskola 242.5 268.0
+Ekonomiprogrammet - Ekonomi , Plusgymnasiet Malmö 187.5 236.0
+Ekonomiprogrammet - Ekonomi , Fria Läroverken Malmö A 191.0
+Ekonomiprogrammet - Ekonomi - Idrottspecialisering, Fria Läroverken Malmö A 201.0
+Ekonomiprogrammet - Ekonomi , Jensen Gymnasium Malmö 167.5 204.0
+Ekonomiprogrammet - Ekonomi - Idrott, Malmö Idrottsgymnasium 242.5 287.0
+Ekonomiprogrammet - Ekonomi , Kunskapsgymnasiet Malmö A 211.0
+Ekonomiprogrammet - Ekonomi , ProCivitas Privata Gymnasium Malmö 305.0 320.0
+Ekonomiprogrammet - Juridik , Malmö Borgarskola 250.0 273.0
+Ekonomiprogrammet - Juridik , Fria Läroverken Malmö A 247.0
+#A) Alla behöriga sökande är antagna B) Ingen sökande är antagen på programmet C) Antagning görs på meritvärde och test / inträdesprov
+#E) Skolan har egen antagning F) Program startar ej G) Meritvärde består av betyg + prov
+Ekonomiprogrammet - Juridik - Idrottspecialisering, Fria Läroverken Malmö
+Ekonomiprogrammet - Juridik , Jensen Gymnasium Malmö A 199.0
+Estetiska programmet - För elev med neuropsyk. funktionsnedsättning, Snitz gymnasium Malmö A 158.0
+Estetiska programmet - Bild och formgivning , Malmö latinskola 225.0 267.0
+Estetiska programmet - Bild och formgivning , Cybergymnasiet Malmö A 177.0
+Estetiska programmet - Bild och formgivning , Bryggeriets gymnasium Malmö A 215.0
+Estetiska programmet - Estetik och media , Malmö latinskola 192.5 250.0
+Estetiska programmet - Estetik och media , 4ans gymnasium Malmö A 171.0
+Estetiska programmet - Estetik och media , Cybergymnasiet Malmö A 207.0
+Estetiska programmet - Estetik och media , Bryggeriets gymnasium Malmö A 217.0
+Estetiska programmet - Musik - Instrument/Sång, Rytmus Malmö A 232.0
+Estetiska programmet - Musik - Musikproduktion, Rytmus Malmö A 214.0
+Estetiska programmet - Musik - Singer/Songwriter, Rytmus Malmö A 236.0
+Estetiska programmet - Musik , Malmö latinskola 227.5 277.0
+Estetiska programmet - Musik - Spetsutbildning i Musik, Malmö latinskola C 327.0
+Estetiska programmet - Teater , Malmö latinskola 185.0 246.0
+Estetiska programmet - Teater , Cybergymnasiet Malmö A 207.0
+Fordons- och transportprogrammet , Framtidsgymnasiet Malmö A 178.0
+Fordons- och transportprogrammet , Agnesfrids gymnasium Malmö A 173.0
+Fordons- och transportprogrammet - lärling , Malmö Lärlingscenter A 122.0
+Fordons- och transportprogrammet - Personbil , Praktiska Malmö Limhamn A 166.0
+Fordons- och transportprogrammet - Personbil - lärling , Yrkesgymnasiet Malmö A 197.0
+Fordons- och transportprogrammet - Transport , Agnesfrids gymnasium Malmö A 182.0
+Handels- och administrationsprogrammet , Värnhemsskolan Malmö A 144.0
+Handels- och administrationsprogrammet - Handel och service , Praktiska Malmö City A 172.0
+Handels- och administrationsprogrammet - Handel och service , Fria Läroverken Malmö A 164.0
+Handels- och administrationsprogrammet - Handel och service - Idrott, Malmö Idrottsgymnasium 160.0 203.0
+Handels- och administrationsprogrammet - Handel och service , Design & Construction College Malmö A 205.0
+Handels- och administrationsprogrammet - Handel och service - lärling , Yrkesgymnasiet Malmö A 197.0
+Handels- och administrationsprogrammet - lärling , Malmö Lärlingscenter A 168.0
+Hotell- och turismprogrammet , Värnhemsskolan Malmö A 182.0
+Hotell- och turismprogrammet - Hotell och konferens , Fria Läroverken Malmö A 208.0
+Hotell- och turismprogrammet - lärling , Malmö Lärlingscenter A 180.0
+Hotell- och turismprogrammet - Turism och resor , Design & Construction College Malmö A 180.0
+Humanistiska programmet , Malmö latinskola A 253.0
+Humanistiska programmet - Språk , Cybergymnasiet Malmö A 232.0
+Hantverksprogrammet - Finsnickeri - Interiör och design, TAU Learning Hantverksgymnasium Malmö A 220.0
+Hantverksprogrammet - Finsnickeri - Möbeldesign, TAU Learning Hantverksgymnasium Malmö A 217.0
+Hantverksprogrammet - Finsnickeri - lärling , Malmö Lärlingscenter B
+Hantverksprogrammet - Florist - lärling , Malmö Lärlingscenter B
+Hantverksprogrammet - Frisör , Cybergymnasiet Malmö A 187.0
+Hantverksprogrammet - Frisör , Värnhemsskolan Malmö A 169.0
+Hantverksprogrammet - Frisör , Fria Läroverken Malmö A 215.0
+Hantverksprogrammet - Frisör - lärling , Malmö Lärlingscenter A 183.0
+Hantverksprogrammet - Hudvård , Praktiska Malmö Limhamn A 191.0
+Hantverksprogrammet - Hår- och makeupstylist , Plusgymnasiet Malmö A 198.0
+Hantverksprogrammet - Hår- och makeupstylist , Praktiska Malmö Limhamn A 201.0
+Hantverksprogrammet - Hår- och makeupstylist , Drottning Blankas Gymnasieskola Malmö 95.00 195.0
+Hantverksprogrammet - Hår- och makeupstylist - lärling , Malmö Lärlingscenter A 159.0
+Hantverksprogrammet - Låssmed , Praktiska Malmö Limhamn A 184.0
+Hantverksprogrammet - Textil design , TAU Learning Hantverksgymnasium Malmö A 189.0
+Hantverksprogrammet - Textil design - lärling , Malmö Lärlingscenter B
+Hantverksprogrammet - Övriga hantverk - lärling , Malmö Lärlingscenter A 198.0
+International Baccalaureate - PRE Diploma program , Bladins Internationella gymnasieskola C
+International Baccalaureate Pre-DP , Malmö Borgarskola 260.0 309.0
+Industritekniska programmet - Svetsteknik , Praktiska Malmö City A 133.0
+Naturvetenskapsprogrammet - Särskild variant Musik, Malmö latinskola C 312.0
+Naturvetenskapsprogrammet , ProCivitas Privata Gymnasium Malmö 322.5 333.0
+Naturvetenskapsprogrammet - Naturvetenskap , Malmö latinskola 282.5 312.0
+Naturvetenskapsprogrammet - Naturvetenskap , Hermods Gymnasium 210.0 248.0
+Naturvetenskapsprogrammet - Naturvetenskap , Malmö Borgarskola 275.0 299.0
+Naturvetenskapsprogrammet - Naturvetenskap - Internationell, Malmö Borgarskola 275.0 301.0
+Naturvetenskapsprogrammet - Naturvetenskap , Pauliskolan Malmö 225.0 256.0
+Naturvetenskapsprogrammet - Naturvetenskap , Cybergymnasiet Malmö A 195.0
+Naturvetenskapsprogrammet - Naturvetenskap , Fria Läroverken Malmö A 181.0
+Naturvetenskapsprogrammet - Naturvetenskap - Idrottspecialisering, Fria Läroverken Malmö A 222.0
+Naturvetenskapsprogrammet - Naturvetenskap - Klassisk, S:t Petri skola Malmö 292.5 316.0
+Naturvetenskapsprogrammet - Naturvetenskap - Science, S:t Petri skola Malmö 315.0 327.0
+Naturvetenskapsprogrammet - Naturvetenskap , Jensen Gymnasium Malmö 227.5 258.0
+Naturvetenskapsprogrammet - Naturvetenskap - Idrott, Malmö Idrottsgymnasium A 281.0
+Naturvetenskapsprogrammet - Naturvetenskap , Bladins gymnasium Malmö 287.5 310.0
+Naturvetenskapsprogrammet - Naturvetenskap , Kunskapsgymnasiet Malmö A 223.0
+Naturvetenskapsprogrammet - Naturvetenskap , Einar Hansengymnasiet Malmö 217.5 257.0
+Naturvetenskapsprogrammet - Naturvetenskap , Thoren Business School Malmö 237.5 256.0
+Naturvetenskapsprogrammet - Naturvetenskap och samhälle , Fria Läroverken Malmö B
+Naturvetenskapsprogrammet - Naturvetenskap och samhälle - Idrottspecialisering, Fria Läroverken Malmö B
+Naturvetenskapsprogrammet - Naturvetenskap och samhälle , Jensen Gymnasium Malmö A 205.0
+Naturvetenskapsprogrammet - Naturvetenskap och samhälle , Thoren Business School Malmö 215.0 255.0
+Naturbruksprogrammet - Djur - Hund, Realgymnasiet Malmö A 172.0
+Naturbruksprogrammet - Djur - Hästhållning, Realgymnasiet Malmö A 200.0
+Naturbruksprogrammet - Djur - Djurvård, Realgymnasiet Malmö A 217.0
+Naturbruksprogrammet - Djur , Praktiska Malmö Limhamn A 169.0
+Naturbruksprogrammet - Djur - lärling - Trav och galopp, Malmö Lärlingscenter A 220.0
+Naturbruksprogrammet - Skog - Natur och Äventyr, Realgymnasiet Malmö A 200.0
+Restaurang- och livsmedelsprogrammet , Värnhemsskolan Malmö A 191.0
+Restaurang- och livsmedelsprogrammet - lärling , Malmö Lärlingscenter A 156.0
+Samhällsvetenskapsprogrammet , Hermods Gymnasium 197.5 241.0
+Samhällsvetenskapsprogrammet , Plusgymnasiet Malmö A 184.0
+Samhällsvetenskapsprogrammet , Thoren Business School Malmö 200.0 223.0
+Samhällsvetenskapsprogrammet - Idrott, ProCivitas Privata Gymnasium Malmö 237.5 278.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap , Pauliskolan Malmö 230.0 255.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap - Bernadottegymnasiet, Pauliskolan Malmö 190.0 228.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap , 4ans gymnasium Malmö A 202.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap , Cybergymnasiet Malmö A 189.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap , Fria Läroverken Malmö A 214.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap - Idrottspecialisering, Fria Läroverken Malmö A 227.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap , S:t Petri skola Malmö 282.5 303.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap , Jensen Gymnasium Malmö A 197.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap - Idrott, Malmö Idrottsgymnasium A 243.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap , Kunskapsgymnasiet Malmö A 188.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap , Einar Hansengymnasiet Malmö 215.0 242.0
+Samhällsvetenskapsprogrammet - Beteendevetenskap - Kriminologi, Drottning Blankas Gymnasieskola Malmö 185.0 223.0
+Samhällsvetenskapsprogrammet - Medier, information och kommunikation , Malmö latinskola 232.5 258.0
+Samhällsvetenskapsprogrammet - Medier, information och kommunikation , 4ans gymnasium Malmö A 257.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , Malmö latinskola 245.0 277.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , Malmö Borgarskola 247.5 269.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap - Engelskspråkig, Malmö Borgarskola 260.0 275.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , Pauliskolan Malmö 207.5 223.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , 4ans gymnasium Malmö B
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , Cybergymnasiet Malmö A 206.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , Fria Läroverken Malmö 175.0 186.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap - Idrottspecialisering, Fria Läroverken Malmö 230.0 234.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , S:t Petri skola Malmö 272.5 292.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap - För elev med neuropsyk. funktionsnedsättning, Snitz gymnasium Malmö B
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , Jensen Gymnasium Malmö 180.0 200.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap - Internationell, Bladins gymnasium Malmö 247.5 261.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap - Social Science: Internationell: Engelskspråkig, Bladins gymnasium Malmö 255.0 284.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap , Kunskapsgymnasiet Malmö A 204.0
+Samhällsvetenskapsprogrammet - Samhällsvetenskap - Internationell profil, ProCivitas Privata Gymnasium Malmö 302.5 317.0
+Teknikprogrammet , Pauliskolan Malmö 195.0 246.0
+Teknikprogrammet - Information- och medieteknik - För elev med neuropsyk. funktionsnedsättning, Snitz gymnasium Malmö A 217.0
+Teknikprogrammet - Informations- och medieteknik , NTI-gymnasiet Malmö A 214.0
+Teknikprogrammet - Informations- och medieteknik , Cybergymnasiet Malmö A 197.0
+Teknikprogrammet - Teknikvetenskap , Cybergymnasiet Malmö A 245.0
+VVS- och fastighetsprogrammet , Framtidsgymnasiet Malmö A 163.0
+VVS- och fastighetsprogrammet , Universitetsholmens gymnasium Malmö 157.5 205.0
+VVS- och fastighetsprogrammet - lärling , Malmö Lärlingscenter A 212.0
+VVS- och fastighetsprogrammet - VVS , Praktiska Malmö City A 151.0
+VVS- och fastighetsprogrammet - VVS - lärling , Yrkesgymnasiet Malmö A 127.0
+Vård- och omsorgsprogrammet , Praktiska Malmö City A 173.0
+Vård- och omsorgsprogrammet , Universitetsholmens gymnasium Malmö A 186.0
+Vård- och omsorgsprogrammet - Räddningsmedicin och akutsjukvård, Drottning Blankas Gymnasieskola Malmö 130.0 213.0
+Vård- och omsorgsprogrammet - lärling , Malmö Lärlingscenter A 167.0

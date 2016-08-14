@@ -6,23 +6,23 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
    clipboard =
    Send ^c
    ClipWait
-   FileAppend, %clipboard%++, %A_ScriptDir%\text.txt
+   FileAppend, %clipboard%++, %A_ScriptDir%\textMalmo.txt
 Return
 2::
-   FileAppend, NULL++, %A_ScriptDir%\text.txt
+   FileAppend, NULL++, %A_ScriptDir%\textMalmo.txt
 Return
 1 & 2::
    clipboard =
    Send ^c
    ClipWait
-   FileAppend, %clipboard%\, %A_ScriptDir%\text.txt
+   FileAppend, %clipboard%\, %A_ScriptDir%\textMalmo.txt
 Return
 2 & 1::
-   FileAppend, NULL\, %A_ScriptDir%\text.txt
-   FileRead, Str, %A_ScriptDir%\text.txt
+   FileAppend, NULL\, %A_ScriptDir%\textMalmo.txt
+   FileRead, Str, %A_ScriptDir%\textMalmo.txt
    StringReplace Str,Str,+,+,UseErrorLevel
    colo= %ErrorLevel%
-   FileRead, Str, %A_ScriptDir%\text.txt
+   FileRead, Str, %A_ScriptDir%\textMalmo.txt
    StringReplace Str,Str,\,\,UseErrorLevel
    semic= %ErrorLevel%
    if((colo/2)/semic=7){
@@ -33,10 +33,10 @@ Return
    }
 Return
 3::
-   FileRead, Str, %A_ScriptDir%\text.txt
+   FileRead, Str, %A_ScriptDir%\textMalmo.txt
    StringReplace Str,Str,§,§,UseErrorLevel
    colo= %ErrorLevel%
-   FileRead, Str, %A_ScriptDir%\text.txt
+   FileRead, Str, %A_ScriptDir%\textMalmo.txt
    StringReplace Str,Str,\,\,UseErrorLevel
    semic= %ErrorLevel%
    if(colo/semic=7){
